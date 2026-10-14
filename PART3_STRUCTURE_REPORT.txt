@@ -1,0 +1,1370 @@
+﻿BN-100 LUX - PART 3 STRUCTURE REPORT
+Generated: 2026-10-12 09:03:23
+
+========== FILE TREE ==========
+
+
+--- main_part3.tex ---
+D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\main_part3.tex
+
+--- structure\partie3 ---
+structure\partie3\3.1_table_of_contents.tex
+structure\partie3\partie3_1_table_of_contents.tex
+structure\partie3\partie3_2_1_1_designation.tex
+structure\partie3\partie3_2_1_2_general_properties.tex
+structure\partie3\partie3_2_1_general_information.tex
+structure\partie3\partie3_2_2_1_manufacturers.tex
+structure\partie3\partie3_2_2_2_manufacturing_process.tex
+structure\partie3\partie3_2_2_3_raw_materials_components_control.tex
+structure\partie3\partie3_2_2_4_critical_steps_intermediate_products.tex
+structure\partie3\partie3_2_2_5_process_validation.tex
+structure\partie3\partie3_2_2_6_manufacturing_process_development.tex
+structure\partie3\partie3_2_2_manufacturing.tex
+structure\partie3\partie3_2_3_1_specifications.tex
+structure\partie3\partie3_2_3_5_justification_specifications.tex
+structure\partie3\partie3_2_3_control_raw_material.tex
+structure\partie3\partie3_2_body_of_data.tex
+structure\partie3\partie3_2_raw_materials_components.tex
+structure\partie3\partie3_3_1_finished_product_description.tex
+structure\partie3\partie3_3_2_1_manufacturers.tex
+structure\partie3\partie3_3_2_2_composition.tex
+structure\partie3\partie3_3_2_3_manufacturing_process_controls.tex
+structure\partie3\partie3_3_2_4_critical_steps_intermediate_controls.tex
+structure\partie3\partie3_3_2_5_process_validation.tex
+structure\partie3\partie3_3_2_manufacturing.tex
+structure\partie3\partie3_3_4_1_specifications.tex
+structure\partie3\partie3_3_4_5_justification_specifications.tex
+structure\partie3\partie3_3_4_finished_product_control.tex
+structure\partie3\partie3_3_5_standards.tex
+structure\partie3\partie3_3_6_stability.tex
+structure\partie3\partie3_3_finished_product.tex
+structure\partie3\partie3_4_1_risk_analysis.tex
+structure\partie3\partie3_4_2_risk_evaluation.tex
+structure\partie3\partie3_4_3_risk_control.tex
+structure\partie3\partie3_4_4_overall_residual_risk_evaluation.tex
+structure\partie3\partie3_5_annexes.tex
+structure\partie3\partie3_6_bibliographical_references.tex
+structure\partie3\partie3_resumes.tex
+
+--- structure\partie3_backup ---
+structure\partie3_backup\3.1_table_of_contents.tex
+structure\partie3_backup\partie3_1_table_of_contents.tex
+structure\partie3_backup\partie3_2_1_1_designation.tex
+structure\partie3_backup\partie3_2_1_2_general_properties.tex
+structure\partie3_backup\partie3_2_1_general_information.tex
+structure\partie3_backup\partie3_2_2_1_manufacturers.tex
+structure\partie3_backup\partie3_2_2_2_manufacturing_process.tex
+structure\partie3_backup\partie3_2_2_3_raw_materials_components_control.tex
+structure\partie3_backup\partie3_2_2_4_critical_steps_intermediate_products.tex
+structure\partie3_backup\partie3_2_2_5_process_validation.tex
+structure\partie3_backup\partie3_2_2_6_manufacturing_process_development.tex
+structure\partie3_backup\partie3_2_2_manufacturing.tex
+structure\partie3_backup\partie3_2_3_1_specifications.tex
+structure\partie3_backup\partie3_2_3_5_justification_specifications.tex
+structure\partie3_backup\partie3_2_3_control_raw_material.tex
+structure\partie3_backup\partie3_2_body_of_data.tex
+structure\partie3_backup\partie3_2_raw_materials_components.tex
+structure\partie3_backup\partie3_3_1_finished_product_description.tex
+structure\partie3_backup\partie3_3_2_1_manufacturers.tex
+structure\partie3_backup\partie3_3_2_2_composition.tex
+structure\partie3_backup\partie3_3_2_3_manufacturing_process_controls.tex
+structure\partie3_backup\partie3_3_2_4_critical_steps_intermediate_controls.tex
+structure\partie3_backup\partie3_3_2_5_process_validation.tex
+structure\partie3_backup\partie3_3_2_manufacturing.tex
+structure\partie3_backup\partie3_3_4_1_specifications.tex
+structure\partie3_backup\partie3_3_4_5_justification_specifications.tex
+structure\partie3_backup\partie3_3_4_finished_product_control.tex
+structure\partie3_backup\partie3_3_5_standards.tex
+structure\partie3_backup\partie3_3_6_stability.tex
+structure\partie3_backup\partie3_3_finished_product.tex
+structure\partie3_backup\partie3_4_1_risk_analysis.tex
+structure\partie3_backup\partie3_4_2_risk_evaluation.tex
+structure\partie3_backup\partie3_4_3_risk_control.tex
+structure\partie3_backup\partie3_4_4_overall_residual_risk_evaluation.tex
+structure\partie3_backup\partie3_5_annexes.tex
+structure\partie3_backup\partie3_6_bibliographical_references.tex
+structure\partie3_backup\partie3_resumes.tex
+
+--- structure\partie3_BACKUP_FINAL ---
+structure\partie3_BACKUP_FINAL\3.1_table_of_contents.tex
+structure\partie3_BACKUP_FINAL\partie3_1_table_of_contents.tex
+structure\partie3_BACKUP_FINAL\partie3_2_1_1_designation.tex
+structure\partie3_BACKUP_FINAL\partie3_2_1_2_general_properties.tex
+structure\partie3_BACKUP_FINAL\partie3_2_1_general_information.tex
+structure\partie3_BACKUP_FINAL\partie3_2_2_1_manufacturers.tex
+structure\partie3_BACKUP_FINAL\partie3_2_2_2_manufacturing_process.tex
+structure\partie3_BACKUP_FINAL\partie3_2_2_3_raw_materials_components_control.tex
+structure\partie3_BACKUP_FINAL\partie3_2_2_4_critical_steps_intermediate_products.tex
+structure\partie3_BACKUP_FINAL\partie3_2_2_5_process_validation.tex
+structure\partie3_BACKUP_FINAL\partie3_2_2_6_manufacturing_process_development.tex
+structure\partie3_BACKUP_FINAL\partie3_2_2_manufacturing.tex
+structure\partie3_BACKUP_FINAL\partie3_2_3_1_specifications.tex
+structure\partie3_BACKUP_FINAL\partie3_2_3_5_justification_specifications.tex
+structure\partie3_BACKUP_FINAL\partie3_2_3_control_raw_material.tex
+structure\partie3_BACKUP_FINAL\partie3_2_body_of_data.tex
+structure\partie3_BACKUP_FINAL\partie3_2_raw_materials_components.tex
+structure\partie3_BACKUP_FINAL\partie3_3_1_finished_product_description.tex
+structure\partie3_BACKUP_FINAL\partie3_3_2_1_manufacturers.tex
+structure\partie3_BACKUP_FINAL\partie3_3_2_2_composition.tex
+structure\partie3_BACKUP_FINAL\partie3_3_2_3_manufacturing_process_controls.tex
+structure\partie3_BACKUP_FINAL\partie3_3_2_4_critical_steps_intermediate_controls.tex
+structure\partie3_BACKUP_FINAL\partie3_3_2_5_process_validation.tex
+structure\partie3_BACKUP_FINAL\partie3_3_2_manufacturing.tex
+structure\partie3_BACKUP_FINAL\partie3_3_4_1_specifications.tex
+structure\partie3_BACKUP_FINAL\partie3_3_4_5_justification_specifications.tex
+structure\partie3_BACKUP_FINAL\partie3_3_4_finished_product_control.tex
+structure\partie3_BACKUP_FINAL\partie3_3_5_standards.tex
+structure\partie3_BACKUP_FINAL\partie3_3_6_stability.tex
+structure\partie3_BACKUP_FINAL\partie3_3_finished_product.tex
+structure\partie3_BACKUP_FINAL\partie3_4_1_risk_analysis.tex
+structure\partie3_BACKUP_FINAL\partie3_4_2_risk_evaluation.tex
+structure\partie3_BACKUP_FINAL\partie3_4_3_risk_control.tex
+structure\partie3_BACKUP_FINAL\partie3_4_4_overall_residual_risk_evaluation.tex
+structure\partie3_BACKUP_FINAL\partie3_5_annexes.tex
+structure\partie3_BACKUP_FINAL\partie3_6_bibliographical_references.tex
+structure\partie3_BACKUP_FINAL\partie3_resumes.tex
+
+========== LATEX STRUCTURE ==========
+
+
+--- FILE: main_part3.tex ---
+  93: \tableofcontents
+ 100: \input{structure/partie3/partie3_1_table_of_contents}
+ 106: \input{structure/partie3/partie3_2_body_of_data}
+ 108: \input{structure/partie3/partie3_2_1_general_information}
+ 109: \input{structure/partie3/partie3_2_1_1_designation}
+ 110: \input{structure/partie3/partie3_2_1_2_general_properties}
+ 112: \input{structure/partie3/partie3_2_2_manufacturing}
+ 113: \input{structure/partie3/partie3_2_2_1_manufacturers}
+ 114: \input{structure/partie3/partie3_2_2_2_manufacturing_process}
+ 115: \input{structure/partie3/partie3_2_2_3_raw_materials_components_control}
+ 116: \input{structure/partie3/partie3_2_2_4_critical_steps_intermediate_products}
+ 117: \input{structure/partie3/partie3_2_2_5_process_validation}
+ 118: \input{structure/partie3/partie3_2_2_6_manufacturing_process_development}
+ 120: \input{structure/partie3/partie3_2_3_control_raw_material}
+ 121: \input{structure/partie3/partie3_2_3_1_specifications}
+ 122: \input{structure/partie3/partie3_2_3_5_justification_specifications}
+ 128: \input{structure/partie3/partie3_3_finished_product}
+ 130: \input{structure/partie3/partie3_3_1_finished_product_description}
+ 132: \input{structure/partie3/partie3_3_2_manufacturing}
+ 133: \input{structure/partie3/partie3_3_2_1_manufacturers}
+ 134: \input{structure/partie3/partie3_3_2_2_composition}
+ 135: \input{structure/partie3/partie3_3_2_3_manufacturing_process_controls}
+ 136: \input{structure/partie3/partie3_3_2_4_critical_steps_intermediate_controls}
+ 137: \input{structure/partie3/partie3_3_2_5_process_validation}
+ 139: \input{structure/partie3/partie3_3_4_finished_product_control}
+ 140: \input{structure/partie3/partie3_3_4_1_specifications}
+ 141: \input{structure/partie3/partie3_3_4_5_justification_specifications}
+ 143: \input{structure/partie3/partie3_3_5_standards}
+ 144: \input{structure/partie3/partie3_3_6_stability}
+ 150: \section{Risk Analysis Report}
+ 152: \input{structure/partie3/partie3_4_1_risk_analysis}
+ 153: \input{structure/partie3/partie3_4_2_risk_evaluation}
+ 154: \input{structure/partie3/partie3_4_3_risk_control}
+ 155: \input{structure/partie3/partie3_4_4_overall_residual_risk_evaluation}
+ 161: \section{Annexes}
+ 163: \input{structure/partie3/partie3_5_annexes}
+ 169: \section{Bibliographical References}
+ 171: \input{structure/partie3/partie3_6_bibliographical_references}
+
+--- FILE: structure\partie3\3.1_table_of_contents.tex ---
+
+--- FILE: structure\partie3\partie3_1_table_of_contents.tex ---
+   5: \chapter*{PART III: Chemical, Physical, Mechanical and Biological Information}
+   7: \addcontentsline{toc}{chapter}{PART III: Chemical, Physical, Mechanical and Biological Information}
+   9: \section{Table of Contents}
+  11: \addcontentsline{toc}{section}{3.1 Table of Contents}
+
+--- FILE: structure\partie3\partie3_2_1_1_designation.tex ---
+   8: \subsubsection{Designation}
+   9: \addcontentsline{toc}{subsubsection}{3.2.1.1 Designation}
+  11: \paragraph{Commercial and Technical Identification}
+  24: \paragraph{Device Designation}
+  34: \paragraph{Principal Intended Function}
+  44: \paragraph{Nature of the Device}
+  52: \paragraph{Configuration}
+  65: \paragraph{Identification and Traceability}
+
+--- FILE: structure\partie3\partie3_2_1_2_general_properties.tex ---
+   8: \subsubsection{General Properties}
+  10: \addcontentsline{toc}{subsubsection}{3.2.1.2 General Properties}
+  16: \paragraph{General Description}
+  40: \paragraph{Heating System}
+  79: \paragraph{Temperature Monitoring}
+ 103: \paragraph{Control and Electronic Architecture}
+ 123: \paragraph{Alarm System}
+ 148: \paragraph{Electrical Characteristics and Classification}
+ 187: \paragraph{Environmental Operating Conditions}
+ 211: \paragraph{Storage and Transportation Conditions}
+ 231: \paragraph{Mechanical Characteristics and Load Limits}
+ 257: \paragraph{Service Life}
+ 277: \paragraph{Reusability and Cleaning}
+ 296: \paragraph{Patient Safety-Related Characteristics}
+ 323: \paragraph{Accessories and Optional Modules}
+ 349: \paragraph{Material Information}
+ 377: \paragraph{Applicable Standards and Verification Evidence}
+ 407: \paragraph{Documentary Status}
+
+--- FILE: structure\partie3\partie3_2_1_general_information.tex ---
+   8: \subsection{General Information}
+  10: \addcontentsline{toc}{subsection}{3.2.1 General Information}
+  12: \subsubsection{Device Identification}
+  21: \subsubsection{Manufacturer}
+  32: \subsubsection{Medical Purpose}
+  44: \subsubsection{Intended Users}
+  55: \subsubsection{Target Patient Population}
+  60: \subsubsection{Operating Principle}
+  72: \subsubsection{Device Configuration}
+  97: \subsubsection{Device Classification and Characteristics}
+ 115: \subsubsection{Expected Clinical Environment}
+ 135: \subsubsection{Expected Service Life}
+
+--- FILE: structure\partie3\partie3_2_2_1_manufacturers.tex ---
+   7: \subsubsection{Manufacturer(s)}
+   9: \paragraph{Manufacturer Identification}
+  28: \paragraph{Manufacturing Site Information}
+  46: \paragraph{Quality Management System Certification}
+  78: \paragraph{Relationship to the Device}
+  98: \paragraph{Documentary Basis}
+
+--- FILE: structure\partie3\partie3_2_2_2_manufacturing_process.tex ---
+   8: \subsubsection{Description of the Manufacturing Process and In-Process Controls}
+  10: \paragraph{General Description}
+  34: \paragraph{Main Structural Base}
+  52: \paragraph{Infant Crib Assembly}
+  70: \paragraph{Radiant Heating Assembly}
+  95: \paragraph{Operating and Control Assembly}
+ 112: \paragraph{Electrical and Electronic Assembly}
+ 150: \paragraph{Temperature Monitoring and Alarm-Related Assembly}
+ 173: \paragraph{Assembly and In-Process Controls}
+ 204: \paragraph{Production and Post-Production Control}
+ 223: \paragraph{Manufacturing Documentation}
+ 238: \paragraph{Documentary Basis}
+
+--- FILE: structure\partie3\partie3_2_2_3_raw_materials_components_control.tex ---
+   7: \subsubsection{Control of Raw Materials and Components}
+   9: \paragraph{General}
+  31: \paragraph{Patient-Contact Materials}
+  68: \paragraph{Critical Components}
+ 263: \paragraph{Control Basis}
+ 291: \paragraph{Relation to Risk Management}
+ 313: \paragraph{Documentary Basis}
+
+--- FILE: structure\partie3\partie3_2_2_4_critical_steps_intermediate_products.tex ---
+   7: \subsubsection{Control of Critical Steps and Intermediate Products}
+   9: \paragraph{General}
+  27: \paragraph{Mechanical Assembly Controls}
+  51: \paragraph{Radiant Heating Assembly}
+  72: \paragraph{Temperature Monitoring and Control}
+  94: \paragraph{Electrical and Electronic Assembly}
+ 137: \paragraph{Alarm and Safety Functions}
+ 162: \paragraph{Intermediate Products and Subassemblies}
+ 190: \paragraph{Production Controls}
+ 213: \paragraph{Documentary Basis}
+
+--- FILE: structure\partie3\partie3_2_2_5_process_validation.tex ---
+   7: \subsubsection{Validation and/or Evaluation of the Manufacturing Process}
+   9: \paragraph{General}
+  25: \paragraph{Manufacturing Process Evaluation}
+  43: \paragraph{Process Validation}
+  68: \paragraph{Safety-Relevant Manufacturing Activities}
+  93: \paragraph{Relationship with Risk Management}
+ 111: \paragraph{Documentary Evidence}
+
+--- FILE: structure\partie3\partie3_2_2_6_manufacturing_process_development.tex ---
+   7: \subsubsection{Development of the Manufacturing Process}
+   9: \paragraph{General}
+  25: \paragraph{Manufacturing Process Development}
+  53: \paragraph{Relationship Between Product Design and Manufacturing}
+  82: \paragraph{Manufacturing Changes}
+  98: \paragraph{Transfer to Routine Production}
+ 117: \paragraph{Risk Management Considerations}
+ 139: \paragraph{Documentary Basis}
+
+--- FILE: structure\partie3\partie3_2_2_manufacturing.tex ---
+   6: \subsection{Manufacturing}
+
+--- FILE: structure\partie3\partie3_2_3_1_specifications.tex ---
+   7: \subsubsection{Specifications}
+   9: \paragraph{General}
+  27: \paragraph{Patient-Contact Materials}
+  47: \paragraph{Critical Components}
+ 188: \paragraph{Component Identification and Control}
+ 209: \paragraph{Relationship with Risk Management}
+ 234: \paragraph{Documentary Basis}
+
+--- FILE: structure\partie3\partie3_2_3_5_justification_specifications.tex ---
+   7: \subsubsection{Justification of Specifications}
+   9: \paragraph{General}
+  30: \paragraph{Patient-Contact Materials}
+  55: \paragraph{Critical Components}
+  85: \paragraph{Relationship with Device Safety and Performance}
+ 126: \paragraph{Limitations of the Available Documentation}
+ 146: \paragraph{Regulatory Conclusion}
+ 164: \paragraph{Documentary Basis}
+
+--- FILE: structure\partie3\partie3_2_3_control_raw_material.tex ---
+   6: \subsection{Control of Raw Material}
+
+--- FILE: structure\partie3\partie3_2_body_of_data.tex ---
+   8: \section{Body of Data}
+  10: \addcontentsline{toc}{section}{3.2 Body of Data}
+  16: \subsection{Scope of the Data}
+  40: \subsection{Technical Information Covered}
+  72: \subsection{Source and Documentation Status}
+ 112: \subsection{Applicability to the BN-100 LUX}
+ 137: \subsection{Traceability Principle}
+
+--- FILE: structure\partie3\partie3_2_raw_materials_components.tex ---
+   7: \section*{3.2 Raw Materials and/or Components}
+   9: \addcontentsline{toc}{section}{3.2 Raw Materials and/or Components}
+  15: \subsection*{3.2.1 General Information}
+  36: \subsection*{Principal Components}
+  73: \subsection*{Functional Component Classification}
+  78: \paragraph{Heating system.}
+  85: \paragraph{Temperature monitoring system.}
+  91: \paragraph{Control and alarm system.}
+ 102: \paragraph{Mechanical structure.}
+ 108: \paragraph{Optional and auxiliary functions.}
+ 119: \subsection*{Material Information}
+ 151: \subsection*{Patient-Contacting Components}
+ 179: \subsection*{Sterility and Reusability}
+ 197: \subsection*{Material and Component Documentation Status}
+
+--- FILE: structure\partie3\partie3_3_1_finished_product_description.tex ---
+   7: \subsection{Description and Composition of the Finished Product}
+   9: \subsubsection{General Description}
+  31: \subsubsection{Device Configuration}
+  74: \subsubsection{Principal Materials}
+ 102: \subsubsection{Temperature Monitoring and Control}
+ 143: \subsubsection{Heating System}
+ 164: \subsubsection{Alarm and Safety Functions}
+ 196: \subsubsection{Electrical and Electronic Components}
+ 234: \subsubsection{Patient Contact}
+ 254: \subsubsection{Accessories and Optional Components}
+ 286: \subsubsection{Non-Sterile and Reusable Device}
+ 303: \subsubsection{Documentary Basis}
+
+--- FILE: structure\partie3\partie3_3_2_1_manufacturers.tex ---
+   7: \subsubsection{Manufacturer(s)}
+   9: \paragraph{Manufacturer Identification}
+  28: \paragraph{Manufacturing Site}
+  46: \paragraph{Quality Management System}
+  69: \paragraph{Relationship to the Finished Product}
+  86: \paragraph{Documentary Basis}
+
+--- FILE: structure\partie3\partie3_3_2_2_composition.tex ---
+   7: \subsubsection{Composition}
+   9: \paragraph{General}
+  30: \paragraph{Mechanical Assemblies}
+  58: \paragraph{Radiant Heating Assembly}
+  86: \paragraph{Control and Operating Assembly}
+ 103: \paragraph{Temperature Monitoring System}
+ 122: \paragraph{Electrical and Electronic Composition}
+ 161: \paragraph{Patient-Contact Components}
+ 186: \paragraph{Accessories and Configurable Components}
+ 215: \paragraph{Composition and Risk Management}
+ 237: \paragraph{Documentary Basis}
+
+--- FILE: structure\partie3\partie3_3_2_3_manufacturing_process_controls.tex ---
+   8: \subsubsection{Description of the Manufacturing Process and Operational Controls}
+  10: \paragraph{General}
+  38: \paragraph{Mechanical Structure and Base Assembly}
+  74: \paragraph{Radiant Heating Assembly}
+ 103: \paragraph{Operating and Control Assembly}
+ 127: \paragraph{Temperature Monitoring and Control}
+ 164: \paragraph{Electrical and Electronic Assembly}
+ 205: \paragraph{Alarm and Safety-Related Operations}
+ 235: \paragraph{Integration of the Finished Device}
+ 258: \paragraph{Manufacturing Controls and Risk Management}
+ 284: \paragraph{Documentary Basis}
+
+--- FILE: structure\partie3\partie3_3_2_4_critical_steps_intermediate_controls.tex ---
+   7: \subsubsection{Controls of Critical Steps and Intermediate Steps}
+   9: \paragraph{General}
+  31: \paragraph{Mechanical Assemblies}
+  60: \paragraph{Radiant Heating Assembly}
+  88: \paragraph{Temperature Monitoring System}
+ 117: \paragraph{Electrical and Electronic Components}
+ 156: \paragraph{Safety-Related Functions}
+ 187: \paragraph{Manufacturing Process Risk Control}
+ 208: \paragraph{Intermediate Products and Assemblies}
+ 228: \paragraph{Documentation Limitation}
+ 253: \paragraph{Documentary Basis}
+
+--- FILE: structure\partie3\partie3_3_2_5_process_validation.tex ---
+   7: \subsubsection{Process Validation and/or Evaluation}
+   9: \paragraph{General}
+  29: \paragraph{Manufacturing Processes Addressed in the Available Documentation}
+  59: \paragraph{Risk-Based Consideration}
+  84: \paragraph{Process Validation Evidence}
+ 110: \paragraph{Process Evaluation}
+ 138: \paragraph{Applicability of Process Validation}
+ 156: \paragraph{Conclusion}
+ 176: \paragraph{Documentary Basis}
+
+--- FILE: structure\partie3\partie3_3_2_manufacturing.tex ---
+   6: \subsection{Fabrication}
+
+--- FILE: structure\partie3\partie3_3_4_1_specifications.tex ---
+   8: \subsubsection{Specifications}
+   9: \addcontentsline{toc}{subsection}{3.3.4.1 Specifications}
+  11: \paragraph{General}
+  21: \paragraph{Electrical Specifications}
+  38: \paragraph{Environmental Operating Conditions}
+  54: \paragraph{Temperature Control Specifications}
+  76: \paragraph{Alarm and Protection Specifications}
+ 107: \paragraph{Storage Conditions}
+ 121: \paragraph{Mechanical Specifications}
+ 138: \paragraph{Specification Basis}
+ 146: \paragraph{Documentary Basis}
+
+--- FILE: structure\partie3\partie3_3_4_5_justification_specifications.tex ---
+   7: \subsubsection{Justification of Specifications}
+   8: \addcontentsline{toc}{subsection}{3.3.4.5 Justification of Specifications}
+  10: \paragraph{General}
+  21: \paragraph{Electrical Specifications}
+  34: \paragraph{Environmental Specifications}
+  48: \paragraph{Temperature Control Specifications}
+  64: \paragraph{Alarm and Protection Specifications}
+  87: \paragraph{Mechanical Specifications}
+ 102: \paragraph{Patient-Contact Materials}
+ 114: \paragraph{Risk Management Relationship}
+ 128: \paragraph{Limitation of the Justification}
+ 142: \paragraph{Documentary Basis}
+
+--- FILE: structure\partie3\partie3_3_4_finished_product_control.tex ---
+   7: \subsection{Control of the Finished Product}
+   8: \addcontentsline{toc}{subsection}{3.3.4 Control of the Finished Product}
+  10: \subsubsection{General}
+  23: \subsubsection{Safety-Related Finished Product Functions}
+  53: \subsubsection{Critical Components}
+ 101: \subsubsection{Patient-Contact Materials}
+ 118: \subsubsection{Finished Product Safety Considerations}
+ 130: \subsubsection{Documentation Limitation}
+ 142: \subsubsection{Documentary Basis}
+
+--- FILE: structure\partie3\partie3_3_5_standards.tex ---
+   8: \subsection{Normes or Reference Standards}
+   9: \addcontentsline{toc}{subsection}{3.3.5 Normes or Reference Standards}
+  11: \subsubsection{General}
+  24: \subsubsection{IEC 60601-1}
+  36: \subsubsection{IEC 60601-1-2}
+  48: \subsubsection{IEC 60601-1-8}
+  57: \subsubsection{ISO 14971}
+  70: \subsubsection{Relationship with the Device}
+  91: \subsubsection{Documentation Status}
+ 104: \subsubsection{Documentary Basis}
+
+--- FILE: structure\partie3\partie3_3_6_stability.tex ---
+   8: \subsection{Stability}
+   9: \addcontentsline{toc}{subsection}{3.3.6 Stability}
+  11: \subsubsection{General}
+  23: \subsubsection{Storage Conditions}
+  41: \subsubsection{Operating Conditions}
+  61: \subsubsection{Service Life}
+  73: \subsubsection{Heater Tube Lifetime}
+  85: \subsubsection{Durability Considerations}
+  98: \subsubsection{Transportation and Storage}
+ 110: \subsubsection{Assessment of Stability}
+ 133: \subsubsection{Documentation Limitation}
+ 145: \subsubsection{Documentary Basis}
+
+--- FILE: structure\partie3\partie3_3_finished_product.tex ---
+   6: \section{Finished Product}
+
+--- FILE: structure\partie3\partie3_4_1_risk_analysis.tex ---
+   8: \subsection{Risk Analysis}
+   9: \addcontentsline{toc}{subsection}{3.4.1 Risk Analysis}
+  11: \subsubsection{General}
+  24: \subsubsection{Risk Management Basis}
+  46: \subsubsection{Identification of Hazards}
+  78: \subsubsection{Electrical Hazards}
+ 111: \subsubsection{Thermal Hazards}
+ 123: \subsubsection{Temperature Monitoring Hazards}
+ 144: \subsubsection{Alarm-Related Hazards}
+ 170: \subsubsection{Mechanical Hazards}
+ 181: \subsubsection{Patient-Contact Hazards}
+ 198: \subsubsection{Manufacturing-Related Risks}
+ 210: \subsubsection{Risk Analysis Approach}
+ 235: \subsubsection{Documentation Limitation}
+ 248: \subsubsection{Documentary Basis}
+
+--- FILE: structure\partie3\partie3_4_2_risk_evaluation.tex ---
+   8: \subsection{Risk Evaluation}
+   9: \addcontentsline{toc}{subsection}{3.4.2 Risk Evaluation}
+  11: \subsubsection{General}
+  23: \subsubsection{Risk Evaluation Basis}
+  41: \subsubsection{Evaluation of Identified Risks}
+  53: \subsubsection{Electrical Risk Evaluation}
+  65: \subsubsection{Thermal Risk Evaluation}
+  89: \subsubsection{Temperature Sensor Risk Evaluation}
+ 103: \subsubsection{Alarm System Risk Evaluation}
+ 114: \subsubsection{Mechanical Risk Evaluation}
+ 125: \subsubsection{Patient-Contact Risk Evaluation}
+ 136: \subsubsection{Manufacturing Risk Evaluation}
+ 147: \subsubsection{Risk Acceptability}
+ 159: \subsubsection{Overall Evaluation Approach}
+ 171: \subsubsection{Documentation Limitation}
+ 183: \subsubsection{Documentary Basis}
+
+--- FILE: structure\partie3\partie3_4_3_risk_control.tex ---
+   8: \subsection{Risk Control}
+   9: \addcontentsline{toc}{subsection}{3.4.3 Risk Control}
+  11: \subsubsection{General}
+  23: \subsubsection{Risk Control Principles}
+  55: \subsubsection{Electrical Risk Controls}
+  87: \subsubsection{Thermal Risk Controls}
+ 111: \subsubsection{Temperature Sensor Controls}
+ 131: \subsubsection{Alarm Controls}
+ 157: \subsubsection{Mechanical Risk Controls}
+ 177: \subsubsection{Patient-Contact Risk Controls}
+ 198: \subsubsection{Manufacturing and Process Controls}
+ 213: \subsubsection{Information for Safety}
+ 225: \subsubsection{Risk-Control Verification}
+ 237: \subsubsection{Residual Risk}
+ 246: \subsubsection{Documentation Limitation}
+ 254: \subsubsection{Documentary Basis}
+
+--- FILE: structure\partie3\partie3_4_4_overall_residual_risk_evaluation.tex ---
+   8: \subsection{Overall Residual Risk Evaluation}
+   9: \addcontentsline{toc}{subsection}{3.4.4 Overall Residual Risk Evaluation}
+  11: \subsubsection{General}
+  24: \subsubsection{Risk Management Basis}
+  42: \subsubsection{Residual Risks Following Risk Control}
+  78: \subsubsection{Thermal Residual Risk}
+  93: \subsubsection{Electrical Residual Risk}
+ 104: \subsubsection{Mechanical Residual Risk}
+ 115: \subsubsection{Temperature Monitoring Residual Risk}
+ 127: \subsubsection{Alarm-Related Residual Risk}
+ 139: \subsubsection{Information for Safety}
+ 165: \subsubsection{Overall Residual Risk}
+ 178: \subsubsection{Benefit--Risk Consideration}
+ 191: \subsubsection{Documentation Limitation}
+ 204: \subsubsection{Documentary Basis}
+
+--- FILE: structure\partie3\partie3_5_annexes.tex ---
+   8: \section{Annexes}
+   9: \addcontentsline{toc}{subsection}{3.5 Annexes}
+  11: \subsection{General}
+  26: \subsection{Manufacturer Documentation}
+  53: \subsection{Technical and Safety Documentation}
+  79: \subsection{Device Identification Documentation}
+ 101: \subsection{Risk Management Annexes}
+ 127: \subsection{Supporting Evidence}
+ 139: \subsection{Document Control}
+ 163: \subsection{Documentary Basis}
+
+--- FILE: structure\partie3\partie3_6_bibliographical_references.tex ---
+   8: \section{Bibliographical References}
+   9: \addcontentsline{toc}{subsection}{3.6 Bibliographical References}
+  11: \subsection{General}
+  21: \subsection{Manufacturer Documentation}
+  36: \subsection{Applicable Standards and Reference Documents}
+  68: \subsection{Use of References}
+  80: \subsection{Document Identification}
+ 102: \subsection{Documentary Basis}
+
+--- FILE: structure\partie3\partie3_resumes.tex ---
+
+--- FILE: structure\partie3_backup\3.1_table_of_contents.tex ---
+
+--- FILE: structure\partie3_backup\partie3_1_table_of_contents.tex ---
+   5: \chapter*{PART III: Chemical, Physical, Mechanical and Biological Information}
+   7: \addcontentsline{toc}{chapter}{PART III: Chemical, Physical, Mechanical and Biological Information}
+   9: \section*{3.1 Table of Contents}
+  11: \addcontentsline{toc}{section}{3.1 Table of Contents}
+
+--- FILE: structure\partie3_backup\partie3_2_1_1_designation.tex ---
+   8: \subsubsection*{Designation}
+   9: \addcontentsline{toc}{subsubsection}{3.2.1.1 Designation}
+  11: \subsection*{Commercial and Technical Identification}
+  24: \subsection*{Device Designation}
+  34: \subsection*{Principal Intended Function}
+  44: \subsection*{Nature of the Device}
+  52: \subsection*{Configuration}
+  65: \subsection*{Identification and Traceability}
+
+--- FILE: structure\partie3_backup\partie3_2_1_2_general_properties.tex ---
+   8: \subsubsection*{General Properties}
+  10: \addcontentsline{toc}{subsubsection}{3.2.1.2 General Properties}
+  16: \subsection*{General Description}
+  40: \subsection*{Heating System}
+  79: \subsection*{Temperature Monitoring}
+ 103: \subsection*{Control and Electronic Architecture}
+ 123: \subsection*{Alarm System}
+ 148: \subsection*{Electrical Characteristics and Classification}
+ 187: \subsection*{Environmental Operating Conditions}
+ 211: \subsection*{Storage and Transportation Conditions}
+ 231: \subsection*{Mechanical Characteristics and Load Limits}
+ 257: \subsection*{Service Life}
+ 277: \subsection*{Reusability and Cleaning}
+ 296: \subsection*{Patient Safety-Related Characteristics}
+ 323: \subsection*{Accessories and Optional Modules}
+ 349: \subsection*{Material Information}
+ 377: \subsection*{Applicable Standards and Verification Evidence}
+ 407: \subsection*{Documentary Status}
+
+--- FILE: structure\partie3_backup\partie3_2_1_general_information.tex ---
+   8: \subsection*{General Information}
+  10: \addcontentsline{toc}{subsection}{3.2.1 General Information}
+  12: \subsubsection*{Device Identification}
+  21: \subsubsection*{Manufacturer}
+  32: \subsubsection*{Medical Purpose}
+  44: \subsubsection*{Intended Users}
+  55: \subsubsection*{Target Patient Population}
+  60: \subsubsection*{Operating Principle}
+  72: \subsubsection*{Device Configuration}
+  97: \subsubsection*{Device Classification and Characteristics}
+ 115: \subsubsection*{Expected Clinical Environment}
+ 135: \subsubsection*{Expected Service Life}
+
+--- FILE: structure\partie3_backup\partie3_2_2_1_manufacturers.tex ---
+   7: \section*{Manufacturer(s)}\addcontentsline{toc}{section}{3.2.2.1 Manufacturer(s)}
+   9: \subsection*{Manufacturer Identification}
+  28: \subsection*{Manufacturing Site Information}
+  46: \subsection*{Quality Management System Certification}
+  78: \subsection*{Relationship to the Device}
+  98: \subsection*{Documentary Basis}
+
+--- FILE: structure\partie3_backup\partie3_2_2_2_manufacturing_process.tex ---
+   8: \section*{Description of the Manufacturing Process and In-Process Controls}\addcontentsline{toc}{section}{3.2.2.2 Description of the Manufacturing Process and In-Process Controls}
+  10: \subsection*{General Description}
+  34: \subsection*{Main Structural Base}
+  52: \subsection*{Infant Crib Assembly}
+  70: \subsection*{Radiant Heating Assembly}
+  95: \subsection*{Operating and Control Assembly}
+ 112: \subsection*{Electrical and Electronic Assembly}
+ 150: \subsection*{Temperature Monitoring and Alarm-Related Assembly}
+ 173: \subsection*{Assembly and In-Process Controls}
+ 204: \subsection*{Production and Post-Production Control}
+ 223: \subsection*{Manufacturing Documentation}
+ 238: \subsection*{Documentary Basis}
+
+--- FILE: structure\partie3_backup\partie3_2_2_3_raw_materials_components_control.tex ---
+   7: \section*{Control of Raw Materials and Components}\addcontentsline{toc}{section}{3.2.2.3 Control of Raw Materials and Components}
+   9: \subsection*{General}
+  31: \subsection*{Patient-Contact Materials}
+  68: \subsection*{Critical Components}
+ 263: \subsection*{Control Basis}
+ 291: \subsection*{Relation to Risk Management}
+ 313: \subsection*{Documentary Basis}
+
+--- FILE: structure\partie3_backup\partie3_2_2_4_critical_steps_intermediate_products.tex ---
+   7: \section*{Control of Critical Steps and Intermediate Products}\addcontentsline{toc}{section}{3.2.2.4 Control of Critical Steps and Intermediate Products}
+   9: \subsection*{General}
+  27: \subsection*{Mechanical Assembly Controls}
+  51: \subsection*{Radiant Heating Assembly}
+  72: \subsection*{Temperature Monitoring and Control}
+  94: \subsection*{Electrical and Electronic Assembly}
+ 137: \subsection*{Alarm and Safety Functions}
+ 162: \subsection*{Intermediate Products and Subassemblies}
+ 190: \subsection*{Production Controls}
+ 213: \subsection*{Documentary Basis}
+
+--- FILE: structure\partie3_backup\partie3_2_2_5_process_validation.tex ---
+   7: \section*{Validation and/or Evaluation of the Manufacturing Process}\addcontentsline{toc}{section}{3.2.2.5 Validation and/or Evaluation of the Manufacturing Process}
+   9: \subsection*{General}
+  25: \subsection*{Manufacturing Process Evaluation}
+  43: \subsection*{Process Validation}
+  68: \subsection*{Safety-Relevant Manufacturing Activities}
+  93: \subsection*{Relationship with Risk Management}
+ 111: \subsection*{Documentary Evidence}
+
+--- FILE: structure\partie3_backup\partie3_2_2_6_manufacturing_process_development.tex ---
+   7: \section*{Development of the Manufacturing Process}\addcontentsline{toc}{section}{3.2.2.6 Development of the Manufacturing Process}
+   9: \subsection*{General}
+  25: \subsection*{Manufacturing Process Development}
+  53: \subsection*{Relationship Between Product Design and Manufacturing}
+  82: \subsection*{Manufacturing Changes}
+  98: \subsection*{Transfer to Routine Production}
+ 117: \subsection*{Risk Management Considerations}
+ 139: \subsection*{Documentary Basis}
+
+--- FILE: structure\partie3_backup\partie3_2_2_manufacturing.tex ---
+   6: \section*{Manufacturing}\addcontentsline{toc}{section}{3.2.2 Manufacturing}
+
+--- FILE: structure\partie3_backup\partie3_2_3_1_specifications.tex ---
+   7: \section*{Specifications}\addcontentsline{toc}{section}{3.2.3.1 Specifications}
+   9: \subsection*{General}
+  27: \subsection*{Patient-Contact Materials}
+  47: \subsection*{Critical Components}
+ 188: \subsection*{Component Identification and Control}
+ 209: \subsection*{Relationship with Risk Management}
+ 234: \subsection*{Documentary Basis}
+
+--- FILE: structure\partie3_backup\partie3_2_3_5_justification_specifications.tex ---
+   7: \section*{Justification of Specifications}\addcontentsline{toc}{section}{3.2.3.5 Justification of Specifications}
+   9: \subsection*{General}
+  30: \subsection*{Patient-Contact Materials}
+  55: \subsection*{Critical Components}
+  85: \subsection*{Relationship with Device Safety and Performance}
+ 126: \subsection*{Limitations of the Available Documentation}
+ 146: \subsection*{Regulatory Conclusion}
+ 164: \subsection*{Documentary Basis}
+
+--- FILE: structure\partie3_backup\partie3_2_3_control_raw_material.tex ---
+   6: \section*{Control of Raw Material}\addcontentsline{toc}{section}{3.2.3 Control of Raw Material}
+
+--- FILE: structure\partie3_backup\partie3_2_body_of_data.tex ---
+   8: \section*{Body of Data}
+  10: \addcontentsline{toc}{section}{3.2 Body of Data}
+  16: \subsection*{Scope of the Data}
+  40: \subsection*{Technical Information Covered}
+  72: \subsection*{Source and Documentation Status}
+ 112: \subsection*{Applicability to the BN-100 LUX}
+ 137: \subsection*{Traceability Principle}
+
+--- FILE: structure\partie3_backup\partie3_2_raw_materials_components.tex ---
+   7: \section*{3.2 Raw Materials and/or Components}
+   9: \addcontentsline{toc}{section}{3.2 Raw Materials and/or Components}
+  15: \subsection*{3.2.1 General Information}
+  36: \subsection*{Principal Components}
+  73: \subsection*{Functional Component Classification}
+  78: \paragraph{Heating system.}
+  85: \paragraph{Temperature monitoring system.}
+  91: \paragraph{Control and alarm system.}
+ 102: \paragraph{Mechanical structure.}
+ 108: \paragraph{Optional and auxiliary functions.}
+ 119: \subsection*{Material Information}
+ 151: \subsection*{Patient-Contacting Components}
+ 179: \subsection*{Sterility and Reusability}
+ 197: \subsection*{Material and Component Documentation Status}
+
+--- FILE: structure\partie3_backup\partie3_3_1_finished_product_description.tex ---
+   7: \section*{Description and Composition of the Finished Product}\addcontentsline{toc}{section}{3.3.1 Description and Composition of the Finished Product}
+   9: \subsection*{General Description}
+  31: \subsection*{Device Configuration}
+  74: \subsection*{Principal Materials}
+ 102: \subsection*{Temperature Monitoring and Control}
+ 143: \subsection*{Heating System}
+ 164: \subsection*{Alarm and Safety Functions}
+ 196: \subsection*{Electrical and Electronic Components}
+ 234: \subsection*{Patient Contact}
+ 254: \subsection*{Accessories and Optional Components}
+ 286: \subsection*{Non-Sterile and Reusable Device}
+ 303: \subsection*{Documentary Basis}
+
+--- FILE: structure\partie3_backup\partie3_3_2_1_manufacturers.tex ---
+   7: \section*{Manufacturer(s)}\addcontentsline{toc}{section}{3.3.2.1 Manufacturer(s)}
+   9: \subsection*{Manufacturer Identification}
+  28: \subsection*{Manufacturing Site}
+  46: \subsection*{Quality Management System}
+  69: \subsection*{Relationship to the Finished Product}
+  86: \subsection*{Documentary Basis}
+
+--- FILE: structure\partie3_backup\partie3_3_2_2_composition.tex ---
+   7: \section*{Composition}\addcontentsline{toc}{section}{3.3.2.2 Composition}
+   9: \subsection*{General}
+  30: \subsection*{Mechanical Assemblies}
+  58: \subsection*{Radiant Heating Assembly}
+  86: \subsection*{Control and Operating Assembly}
+ 103: \subsection*{Temperature Monitoring System}
+ 122: \subsection*{Electrical and Electronic Composition}
+ 161: \subsection*{Patient-Contact Components}
+ 186: \subsection*{Accessories and Configurable Components}
+ 215: \subsection*{Composition and Risk Management}
+ 237: \subsection*{Documentary Basis}
+
+--- FILE: structure\partie3_backup\partie3_3_2_3_manufacturing_process_controls.tex ---
+   8: \subsection*{Description of the Manufacturing Process and Operational Controls}\addcontentsline{toc}{subsection}{3.3.2.3 Description of the Manufacturing Process and Operational Controls}
+  10: \subsubsection*{General}
+  38: \subsubsection*{Mechanical Structure and Base Assembly}
+  74: \subsubsection*{Radiant Heating Assembly}
+ 103: \subsubsection*{Operating and Control Assembly}
+ 127: \subsubsection*{Temperature Monitoring and Control}
+ 164: \subsubsection*{Electrical and Electronic Assembly}
+ 205: \subsubsection*{Alarm and Safety-Related Operations}
+ 235: \subsubsection*{Integration of the Finished Device}
+ 258: \subsubsection*{Manufacturing Controls and Risk Management}
+ 284: \subsubsection*{Documentary Basis}
+
+--- FILE: structure\partie3_backup\partie3_3_2_4_critical_steps_intermediate_controls.tex ---
+   7: \subsection*{Controls of Critical Steps and Intermediate Steps}\addcontentsline{toc}{subsection}{3.3.2.4 Controls of Critical Steps and Intermediate Steps}
+   9: \subsubsection*{General}
+  31: \subsubsection*{Mechanical Assemblies}
+  60: \subsubsection*{Radiant Heating Assembly}
+  88: \subsubsection*{Temperature Monitoring System}
+ 117: \subsubsection*{Electrical and Electronic Components}
+ 156: \subsubsection*{Safety-Related Functions}
+ 187: \subsubsection*{Manufacturing Process Risk Control}
+ 208: \subsubsection*{Intermediate Products and Assemblies}
+ 228: \subsubsection*{Documentation Limitation}
+ 253: \subsubsection*{Documentary Basis}
+
+--- FILE: structure\partie3_backup\partie3_3_2_5_process_validation.tex ---
+   7: \subsection*{Process Validation and/or Evaluation}\addcontentsline{toc}{subsection}{3.3.2.5 Process Validation and/or Evaluation}
+   9: \subsubsection*{General}
+  29: \subsubsection*{Manufacturing Processes Addressed in the Available Documentation}
+  59: \subsubsection*{Risk-Based Consideration}
+  84: \subsubsection*{Process Validation Evidence}
+ 110: \subsubsection*{Process Evaluation}
+ 138: \subsubsection*{Applicability of Process Validation}
+ 156: \subsubsection*{Conclusion}
+ 176: \subsubsection*{Documentary Basis}
+
+--- FILE: structure\partie3_backup\partie3_3_2_manufacturing.tex ---
+   6: \section*{Fabrication}\addcontentsline{toc}{section}{3.3.2 Fabrication}
+
+--- FILE: structure\partie3_backup\partie3_3_4_1_specifications.tex ---
+   8: \subsection*{Specifications}
+   9: \addcontentsline{toc}{subsection}{3.3.4.1 Specifications}
+  11: \subsubsection*{General}
+  21: \subsubsection*{Electrical Specifications}
+  38: \subsubsection*{Environmental Operating Conditions}
+  54: \subsubsection*{Temperature Control Specifications}
+  76: \subsubsection*{Alarm and Protection Specifications}
+ 107: \subsubsection*{Storage Conditions}
+ 121: \subsubsection*{Mechanical Specifications}
+ 138: \subsubsection*{Specification Basis}
+ 146: \subsubsection*{Documentary Basis}
+
+--- FILE: structure\partie3_backup\partie3_3_4_5_justification_specifications.tex ---
+   7: \subsection*{Justification of Specifications}
+   8: \addcontentsline{toc}{subsection}{3.3.4.5 Justification of Specifications}
+  10: \subsubsection*{General}
+  21: \subsubsection*{Electrical Specifications}
+  34: \subsubsection*{Environmental Specifications}
+  48: \subsubsection*{Temperature Control Specifications}
+  64: \subsubsection*{Alarm and Protection Specifications}
+  87: \subsubsection*{Mechanical Specifications}
+ 102: \subsubsection*{Patient-Contact Materials}
+ 114: \subsubsection*{Risk Management Relationship}
+ 128: \subsubsection*{Limitation of the Justification}
+ 142: \subsubsection*{Documentary Basis}
+
+--- FILE: structure\partie3_backup\partie3_3_4_finished_product_control.tex ---
+   7: \subsection*{Control of the Finished Product}
+   8: \addcontentsline{toc}{subsection}{3.3.4 Control of the Finished Product}
+  10: \subsubsection*{General}
+  23: \subsubsection*{Safety-Related Finished Product Functions}
+  53: \subsubsection*{Critical Components}
+ 101: \subsubsection*{Patient-Contact Materials}
+ 118: \subsubsection*{Finished Product Safety Considerations}
+ 130: \subsubsection*{Documentation Limitation}
+ 142: \subsubsection*{Documentary Basis}
+
+--- FILE: structure\partie3_backup\partie3_3_5_standards.tex ---
+   8: \subsection*{Normes or Reference Standards}
+   9: \addcontentsline{toc}{subsection}{3.3.5 Normes or Reference Standards}
+  11: \subsubsection*{General}
+  24: \subsubsection*{IEC 60601-1}
+  36: \subsubsection*{IEC 60601-1-2}
+  48: \subsubsection*{IEC 60601-1-8}
+  57: \subsubsection*{ISO 14971}
+  70: \subsubsection*{Relationship with the Device}
+  91: \subsubsection*{Documentation Status}
+ 104: \subsubsection*{Documentary Basis}
+
+--- FILE: structure\partie3_backup\partie3_3_6_stability.tex ---
+   8: \subsection*{Stability}
+   9: \addcontentsline{toc}{subsection}{3.3.6 Stability}
+  11: \subsubsection*{General}
+  23: \subsubsection*{Storage Conditions}
+  41: \subsubsection*{Operating Conditions}
+  61: \subsubsection*{Service Life}
+  73: \subsubsection*{Heater Tube Lifetime}
+  85: \subsubsection*{Durability Considerations}
+  98: \subsubsection*{Transportation and Storage}
+ 110: \subsubsection*{Assessment of Stability}
+ 133: \subsubsection*{Documentation Limitation}
+ 145: \subsubsection*{Documentary Basis}
+
+--- FILE: structure\partie3_backup\partie3_3_finished_product.tex ---
+   6: \section*{Finished Product}\addcontentsline{toc}{section}{3.3 Finished Product}
+
+--- FILE: structure\partie3_backup\partie3_4_1_risk_analysis.tex ---
+   8: \subsection{Risk Analysis}
+   9: \addcontentsline{toc}{subsection}{3.4.1 Risk Analysis}
+  11: \subsubsection*{General}
+  24: \subsubsection*{Risk Management Basis}
+  46: \subsubsection*{Identification of Hazards}
+  78: \subsubsection*{Electrical Hazards}
+ 111: \subsubsection*{Thermal Hazards}
+ 123: \subsubsection*{Temperature Monitoring Hazards}
+ 144: \subsubsection*{Alarm-Related Hazards}
+ 170: \subsubsection*{Mechanical Hazards}
+ 181: \subsubsection*{Patient-Contact Hazards}
+ 198: \subsubsection*{Manufacturing-Related Risks}
+ 210: \subsubsection*{Risk Analysis Approach}
+ 235: \subsubsection*{Documentation Limitation}
+ 248: \subsubsection*{Documentary Basis}
+
+--- FILE: structure\partie3_backup\partie3_4_2_risk_evaluation.tex ---
+   8: \subsection{Risk Evaluation}
+   9: \addcontentsline{toc}{subsection}{3.4.2 Risk Evaluation}
+  11: \subsubsection*{General}
+  23: \subsubsection*{Risk Evaluation Basis}
+  41: \subsubsection*{Evaluation of Identified Risks}
+  53: \subsubsection*{Electrical Risk Evaluation}
+  65: \subsubsection*{Thermal Risk Evaluation}
+  89: \subsubsection*{Temperature Sensor Risk Evaluation}
+ 103: \subsubsection*{Alarm System Risk Evaluation}
+ 114: \subsubsection*{Mechanical Risk Evaluation}
+ 125: \subsubsection*{Patient-Contact Risk Evaluation}
+ 136: \subsubsection*{Manufacturing Risk Evaluation}
+ 147: \subsubsection*{Risk Acceptability}
+ 159: \subsubsection*{Overall Evaluation Approach}
+ 171: \subsubsection*{Documentation Limitation}
+ 183: \subsubsection*{Documentary Basis}
+
+--- FILE: structure\partie3_backup\partie3_4_3_risk_control.tex ---
+   8: \subsection{Risk Control}
+   9: \addcontentsline{toc}{subsection}{3.4.3 Risk Control}
+  11: \subsubsection*{General}
+  23: \subsubsection*{Risk Control Principles}
+  55: \subsubsection*{Electrical Risk Controls}
+  87: \subsubsection*{Thermal Risk Controls}
+ 111: \subsubsection*{Temperature Sensor Controls}
+ 131: \subsubsection*{Alarm Controls}
+ 157: \subsubsection*{Mechanical Risk Controls}
+ 177: \subsubsection*{Patient-Contact Risk Controls}
+ 198: \subsubsection*{Manufacturing and Process Controls}
+ 213: \subsubsection*{Information for Safety}
+ 225: \subsubsection*{Risk-Control Verification}
+ 237: \subsubsection*{Residual Risk}
+ 246: \subsubsection*{Documentation Limitation}
+ 254: \subsubsection*{Documentary Basis}
+
+--- FILE: structure\partie3_backup\partie3_4_4_overall_residual_risk_evaluation.tex ---
+   8: \subsection{Overall Residual Risk Evaluation}
+   9: \addcontentsline{toc}{subsection}{3.4.4 Overall Residual Risk Evaluation}
+  11: \subsubsection*{General}
+  24: \subsubsection*{Risk Management Basis}
+  42: \subsubsection*{Residual Risks Following Risk Control}
+  78: \subsubsection*{Thermal Residual Risk}
+  93: \subsubsection*{Electrical Residual Risk}
+ 104: \subsubsection*{Mechanical Residual Risk}
+ 115: \subsubsection*{Temperature Monitoring Residual Risk}
+ 127: \subsubsection*{Alarm-Related Residual Risk}
+ 139: \subsubsection*{Information for Safety}
+ 165: \subsubsection*{Overall Residual Risk}
+ 178: \subsubsection*{Benefit--Risk Consideration}
+ 191: \subsubsection*{Documentation Limitation}
+ 204: \subsubsection*{Documentary Basis}
+
+--- FILE: structure\partie3_backup\partie3_5_annexes.tex ---
+   8: \subsection*{Annexes}
+   9: \addcontentsline{toc}{subsection}{3.5 Annexes}
+  11: \subsubsection*{General}
+  26: \subsubsection*{Manufacturer Documentation}
+  53: \subsubsection*{Technical and Safety Documentation}
+  79: \subsubsection*{Device Identification Documentation}
+ 101: \subsubsection*{Risk Management Annexes}
+ 127: \subsubsection*{Supporting Evidence}
+ 139: \subsubsection*{Document Control}
+ 163: \subsubsection*{Documentary Basis}
+
+--- FILE: structure\partie3_backup\partie3_6_bibliographical_references.tex ---
+   8: \subsection*{Bibliographical References}
+   9: \addcontentsline{toc}{subsection}{3.6 Bibliographical References}
+  11: \subsubsection*{General}
+  21: \subsubsection*{Manufacturer Documentation}
+  36: \subsubsection*{Applicable Standards and Reference Documents}
+  68: \subsubsection*{Use of References}
+  80: \subsubsection*{Document Identification}
+ 102: \subsubsection*{Documentary Basis}
+
+--- FILE: structure\partie3_backup\partie3_resumes.tex ---
+
+--- FILE: structure\partie3_BACKUP_FINAL\3.1_table_of_contents.tex ---
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_1_table_of_contents.tex ---
+   5: \chapter*{PART III: Chemical, Physical, Mechanical and Biological Information}
+   7: \addcontentsline{toc}{chapter}{PART III: Chemical, Physical, Mechanical and Biological Information}
+   9: \section*{3.1 Table of Contents}
+  11: \addcontentsline{toc}{section}{3.1 Table of Contents}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_2_1_1_designation.tex ---
+   8: \subsubsection*{Designation}
+   9: \addcontentsline{toc}{subsubsection}{3.2.1.1 Designation}
+  11: \subsection*{Commercial and Technical Identification}
+  24: \subsection*{Device Designation}
+  34: \subsection*{Principal Intended Function}
+  44: \subsection*{Nature of the Device}
+  52: \subsection*{Configuration}
+  65: \subsection*{Identification and Traceability}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_2_1_2_general_properties.tex ---
+   8: \subsubsection*{General Properties}
+  10: \addcontentsline{toc}{subsubsection}{3.2.1.2 General Properties}
+  16: \subsection*{General Description}
+  40: \subsection*{Heating System}
+  79: \subsection*{Temperature Monitoring}
+ 103: \subsection*{Control and Electronic Architecture}
+ 123: \subsection*{Alarm System}
+ 148: \subsection*{Electrical Characteristics and Classification}
+ 187: \subsection*{Environmental Operating Conditions}
+ 211: \subsection*{Storage and Transportation Conditions}
+ 231: \subsection*{Mechanical Characteristics and Load Limits}
+ 257: \subsection*{Service Life}
+ 277: \subsection*{Reusability and Cleaning}
+ 296: \subsection*{Patient Safety-Related Characteristics}
+ 323: \subsection*{Accessories and Optional Modules}
+ 349: \subsection*{Material Information}
+ 377: \subsection*{Applicable Standards and Verification Evidence}
+ 407: \subsection*{Documentary Status}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_2_1_general_information.tex ---
+   8: \subsection*{General Information}
+  10: \addcontentsline{toc}{subsection}{3.2.1 General Information}
+  12: \subsubsection*{Device Identification}
+  21: \subsubsection*{Manufacturer}
+  32: \subsubsection*{Medical Purpose}
+  44: \subsubsection*{Intended Users}
+  55: \subsubsection*{Target Patient Population}
+  60: \subsubsection*{Operating Principle}
+  72: \subsubsection*{Device Configuration}
+  97: \subsubsection*{Device Classification and Characteristics}
+ 115: \subsubsection*{Expected Clinical Environment}
+ 135: \subsubsection*{Expected Service Life}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_2_2_1_manufacturers.tex ---
+   7: \section*{Manufacturer(s)}\addcontentsline{toc}{section}{3.2.2.1 Manufacturer(s)}
+   9: \subsection*{Manufacturer Identification}
+  28: \subsection*{Manufacturing Site Information}
+  46: \subsection*{Quality Management System Certification}
+  78: \subsection*{Relationship to the Device}
+  98: \subsection*{Documentary Basis}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_2_2_2_manufacturing_process.tex ---
+   8: \section*{Description of the Manufacturing Process and In-Process Controls}\addcontentsline{toc}{section}{3.2.2.2 Description of the Manufacturing Process and In-Process Controls}
+  10: \subsection*{General Description}
+  34: \subsection*{Main Structural Base}
+  52: \subsection*{Infant Crib Assembly}
+  70: \subsection*{Radiant Heating Assembly}
+  95: \subsection*{Operating and Control Assembly}
+ 112: \subsection*{Electrical and Electronic Assembly}
+ 150: \subsection*{Temperature Monitoring and Alarm-Related Assembly}
+ 173: \subsection*{Assembly and In-Process Controls}
+ 204: \subsection*{Production and Post-Production Control}
+ 223: \subsection*{Manufacturing Documentation}
+ 238: \subsection*{Documentary Basis}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_2_2_3_raw_materials_components_control.tex ---
+   7: \section*{Control of Raw Materials and Components}\addcontentsline{toc}{section}{3.2.2.3 Control of Raw Materials and Components}
+   9: \subsection*{General}
+  31: \subsection*{Patient-Contact Materials}
+  68: \subsection*{Critical Components}
+ 263: \subsection*{Control Basis}
+ 291: \subsection*{Relation to Risk Management}
+ 313: \subsection*{Documentary Basis}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_2_2_4_critical_steps_intermediate_products.tex ---
+   7: \section*{Control of Critical Steps and Intermediate Products}\addcontentsline{toc}{section}{3.2.2.4 Control of Critical Steps and Intermediate Products}
+   9: \subsection*{General}
+  27: \subsection*{Mechanical Assembly Controls}
+  51: \subsection*{Radiant Heating Assembly}
+  72: \subsection*{Temperature Monitoring and Control}
+  94: \subsection*{Electrical and Electronic Assembly}
+ 137: \subsection*{Alarm and Safety Functions}
+ 162: \subsection*{Intermediate Products and Subassemblies}
+ 190: \subsection*{Production Controls}
+ 213: \subsection*{Documentary Basis}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_2_2_5_process_validation.tex ---
+   7: \section*{Validation and/or Evaluation of the Manufacturing Process}\addcontentsline{toc}{section}{3.2.2.5 Validation and/or Evaluation of the Manufacturing Process}
+   9: \subsection*{General}
+  25: \subsection*{Manufacturing Process Evaluation}
+  43: \subsection*{Process Validation}
+  68: \subsection*{Safety-Relevant Manufacturing Activities}
+  93: \subsection*{Relationship with Risk Management}
+ 111: \subsection*{Documentary Evidence}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_2_2_6_manufacturing_process_development.tex ---
+   7: \section*{Development of the Manufacturing Process}\addcontentsline{toc}{section}{3.2.2.6 Development of the Manufacturing Process}
+   9: \subsection*{General}
+  25: \subsection*{Manufacturing Process Development}
+  53: \subsection*{Relationship Between Product Design and Manufacturing}
+  82: \subsection*{Manufacturing Changes}
+  98: \subsection*{Transfer to Routine Production}
+ 117: \subsection*{Risk Management Considerations}
+ 139: \subsection*{Documentary Basis}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_2_2_manufacturing.tex ---
+   6: \section*{Manufacturing}\addcontentsline{toc}{section}{3.2.2 Manufacturing}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_2_3_1_specifications.tex ---
+   7: \section*{Specifications}\addcontentsline{toc}{section}{3.2.3.1 Specifications}
+   9: \subsection*{General}
+  27: \subsection*{Patient-Contact Materials}
+  47: \subsection*{Critical Components}
+ 188: \subsection*{Component Identification and Control}
+ 209: \subsection*{Relationship with Risk Management}
+ 234: \subsection*{Documentary Basis}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_2_3_5_justification_specifications.tex ---
+   7: \section*{Justification of Specifications}\addcontentsline{toc}{section}{3.2.3.5 Justification of Specifications}
+   9: \subsection*{General}
+  30: \subsection*{Patient-Contact Materials}
+  55: \subsection*{Critical Components}
+  85: \subsection*{Relationship with Device Safety and Performance}
+ 126: \subsection*{Limitations of the Available Documentation}
+ 146: \subsection*{Regulatory Conclusion}
+ 164: \subsection*{Documentary Basis}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_2_3_control_raw_material.tex ---
+   6: \section*{Control of Raw Material}\addcontentsline{toc}{section}{3.2.3 Control of Raw Material}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_2_body_of_data.tex ---
+   8: \section*{Body of Data}
+  10: \addcontentsline{toc}{section}{3.2 Body of Data}
+  16: \subsection*{Scope of the Data}
+  40: \subsection*{Technical Information Covered}
+  72: \subsection*{Source and Documentation Status}
+ 112: \subsection*{Applicability to the BN-100 LUX}
+ 137: \subsection*{Traceability Principle}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_2_raw_materials_components.tex ---
+   7: \section*{3.2 Raw Materials and/or Components}
+   9: \addcontentsline{toc}{section}{3.2 Raw Materials and/or Components}
+  15: \subsection*{3.2.1 General Information}
+  36: \subsection*{Principal Components}
+  73: \subsection*{Functional Component Classification}
+  78: \paragraph{Heating system.}
+  85: \paragraph{Temperature monitoring system.}
+  91: \paragraph{Control and alarm system.}
+ 102: \paragraph{Mechanical structure.}
+ 108: \paragraph{Optional and auxiliary functions.}
+ 119: \subsection*{Material Information}
+ 151: \subsection*{Patient-Contacting Components}
+ 179: \subsection*{Sterility and Reusability}
+ 197: \subsection*{Material and Component Documentation Status}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_3_1_finished_product_description.tex ---
+   7: \section*{Description and Composition of the Finished Product}\addcontentsline{toc}{section}{3.3.1 Description and Composition of the Finished Product}
+   9: \subsection*{General Description}
+  31: \subsection*{Device Configuration}
+  74: \subsection*{Principal Materials}
+ 102: \subsection*{Temperature Monitoring and Control}
+ 143: \subsection*{Heating System}
+ 164: \subsection*{Alarm and Safety Functions}
+ 196: \subsection*{Electrical and Electronic Components}
+ 234: \subsection*{Patient Contact}
+ 254: \subsection*{Accessories and Optional Components}
+ 286: \subsection*{Non-Sterile and Reusable Device}
+ 303: \subsection*{Documentary Basis}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_3_2_1_manufacturers.tex ---
+   7: \section*{Manufacturer(s)}\addcontentsline{toc}{section}{3.3.2.1 Manufacturer(s)}
+   9: \subsection*{Manufacturer Identification}
+  28: \subsection*{Manufacturing Site}
+  46: \subsection*{Quality Management System}
+  69: \subsection*{Relationship to the Finished Product}
+  86: \subsection*{Documentary Basis}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_3_2_2_composition.tex ---
+   7: \section*{Composition}\addcontentsline{toc}{section}{3.3.2.2 Composition}
+   9: \subsection*{General}
+  30: \subsection*{Mechanical Assemblies}
+  58: \subsection*{Radiant Heating Assembly}
+  86: \subsection*{Control and Operating Assembly}
+ 103: \subsection*{Temperature Monitoring System}
+ 122: \subsection*{Electrical and Electronic Composition}
+ 161: \subsection*{Patient-Contact Components}
+ 186: \subsection*{Accessories and Configurable Components}
+ 215: \subsection*{Composition and Risk Management}
+ 237: \subsection*{Documentary Basis}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_3_2_3_manufacturing_process_controls.tex ---
+   8: \subsection*{Description of the Manufacturing Process and Operational Controls}\addcontentsline{toc}{subsection}{3.3.2.3 Description of the Manufacturing Process and Operational Controls}
+  10: \subsubsection*{General}
+  38: \subsubsection*{Mechanical Structure and Base Assembly}
+  74: \subsubsection*{Radiant Heating Assembly}
+ 103: \subsubsection*{Operating and Control Assembly}
+ 127: \subsubsection*{Temperature Monitoring and Control}
+ 164: \subsubsection*{Electrical and Electronic Assembly}
+ 205: \subsubsection*{Alarm and Safety-Related Operations}
+ 235: \subsubsection*{Integration of the Finished Device}
+ 258: \subsubsection*{Manufacturing Controls and Risk Management}
+ 284: \subsubsection*{Documentary Basis}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_3_2_4_critical_steps_intermediate_controls.tex ---
+   7: \subsection*{Controls of Critical Steps and Intermediate Steps}\addcontentsline{toc}{subsection}{3.3.2.4 Controls of Critical Steps and Intermediate Steps}
+   9: \subsubsection*{General}
+  31: \subsubsection*{Mechanical Assemblies}
+  60: \subsubsection*{Radiant Heating Assembly}
+  88: \subsubsection*{Temperature Monitoring System}
+ 117: \subsubsection*{Electrical and Electronic Components}
+ 156: \subsubsection*{Safety-Related Functions}
+ 187: \subsubsection*{Manufacturing Process Risk Control}
+ 208: \subsubsection*{Intermediate Products and Assemblies}
+ 228: \subsubsection*{Documentation Limitation}
+ 253: \subsubsection*{Documentary Basis}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_3_2_5_process_validation.tex ---
+   7: \subsection*{Process Validation and/or Evaluation}\addcontentsline{toc}{subsection}{3.3.2.5 Process Validation and/or Evaluation}
+   9: \subsubsection*{General}
+  29: \subsubsection*{Manufacturing Processes Addressed in the Available Documentation}
+  59: \subsubsection*{Risk-Based Consideration}
+  84: \subsubsection*{Process Validation Evidence}
+ 110: \subsubsection*{Process Evaluation}
+ 138: \subsubsection*{Applicability of Process Validation}
+ 156: \subsubsection*{Conclusion}
+ 176: \subsubsection*{Documentary Basis}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_3_2_manufacturing.tex ---
+   6: \section*{Fabrication}\addcontentsline{toc}{section}{3.3.2 Fabrication}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_3_4_1_specifications.tex ---
+   8: \subsection*{Specifications}
+   9: \addcontentsline{toc}{subsection}{3.3.4.1 Specifications}
+  11: \subsubsection*{General}
+  21: \subsubsection*{Electrical Specifications}
+  38: \subsubsection*{Environmental Operating Conditions}
+  54: \subsubsection*{Temperature Control Specifications}
+  76: \subsubsection*{Alarm and Protection Specifications}
+ 107: \subsubsection*{Storage Conditions}
+ 121: \subsubsection*{Mechanical Specifications}
+ 138: \subsubsection*{Specification Basis}
+ 146: \subsubsection*{Documentary Basis}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_3_4_5_justification_specifications.tex ---
+   7: \subsection*{Justification of Specifications}
+   8: \addcontentsline{toc}{subsection}{3.3.4.5 Justification of Specifications}
+  10: \subsubsection*{General}
+  21: \subsubsection*{Electrical Specifications}
+  34: \subsubsection*{Environmental Specifications}
+  48: \subsubsection*{Temperature Control Specifications}
+  64: \subsubsection*{Alarm and Protection Specifications}
+  87: \subsubsection*{Mechanical Specifications}
+ 102: \subsubsection*{Patient-Contact Materials}
+ 114: \subsubsection*{Risk Management Relationship}
+ 128: \subsubsection*{Limitation of the Justification}
+ 142: \subsubsection*{Documentary Basis}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_3_4_finished_product_control.tex ---
+   7: \subsection*{Control of the Finished Product}
+   8: \addcontentsline{toc}{subsection}{3.3.4 Control of the Finished Product}
+  10: \subsubsection*{General}
+  23: \subsubsection*{Safety-Related Finished Product Functions}
+  53: \subsubsection*{Critical Components}
+ 101: \subsubsection*{Patient-Contact Materials}
+ 118: \subsubsection*{Finished Product Safety Considerations}
+ 130: \subsubsection*{Documentation Limitation}
+ 142: \subsubsection*{Documentary Basis}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_3_5_standards.tex ---
+   8: \subsection*{Normes or Reference Standards}
+   9: \addcontentsline{toc}{subsection}{3.3.5 Normes or Reference Standards}
+  11: \subsubsection*{General}
+  24: \subsubsection*{IEC 60601-1}
+  36: \subsubsection*{IEC 60601-1-2}
+  48: \subsubsection*{IEC 60601-1-8}
+  57: \subsubsection*{ISO 14971}
+  70: \subsubsection*{Relationship with the Device}
+  91: \subsubsection*{Documentation Status}
+ 104: \subsubsection*{Documentary Basis}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_3_6_stability.tex ---
+   8: \subsection*{Stability}
+   9: \addcontentsline{toc}{subsection}{3.3.6 Stability}
+  11: \subsubsection*{General}
+  23: \subsubsection*{Storage Conditions}
+  41: \subsubsection*{Operating Conditions}
+  61: \subsubsection*{Service Life}
+  73: \subsubsection*{Heater Tube Lifetime}
+  85: \subsubsection*{Durability Considerations}
+  98: \subsubsection*{Transportation and Storage}
+ 110: \subsubsection*{Assessment of Stability}
+ 133: \subsubsection*{Documentation Limitation}
+ 145: \subsubsection*{Documentary Basis}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_3_finished_product.tex ---
+   6: \section*{Finished Product}\addcontentsline{toc}{section}{3.3 Finished Product}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_4_1_risk_analysis.tex ---
+   8: \subsection{Risk Analysis}
+   9: \addcontentsline{toc}{subsection}{3.4.1 Risk Analysis}
+  11: \subsubsection*{General}
+  24: \subsubsection*{Risk Management Basis}
+  46: \subsubsection*{Identification of Hazards}
+  78: \subsubsection*{Electrical Hazards}
+ 111: \subsubsection*{Thermal Hazards}
+ 123: \subsubsection*{Temperature Monitoring Hazards}
+ 144: \subsubsection*{Alarm-Related Hazards}
+ 170: \subsubsection*{Mechanical Hazards}
+ 181: \subsubsection*{Patient-Contact Hazards}
+ 198: \subsubsection*{Manufacturing-Related Risks}
+ 210: \subsubsection*{Risk Analysis Approach}
+ 235: \subsubsection*{Documentation Limitation}
+ 248: \subsubsection*{Documentary Basis}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_4_2_risk_evaluation.tex ---
+   8: \subsection{Risk Evaluation}
+   9: \addcontentsline{toc}{subsection}{3.4.2 Risk Evaluation}
+  11: \subsubsection*{General}
+  23: \subsubsection*{Risk Evaluation Basis}
+  41: \subsubsection*{Evaluation of Identified Risks}
+  53: \subsubsection*{Electrical Risk Evaluation}
+  65: \subsubsection*{Thermal Risk Evaluation}
+  89: \subsubsection*{Temperature Sensor Risk Evaluation}
+ 103: \subsubsection*{Alarm System Risk Evaluation}
+ 114: \subsubsection*{Mechanical Risk Evaluation}
+ 125: \subsubsection*{Patient-Contact Risk Evaluation}
+ 136: \subsubsection*{Manufacturing Risk Evaluation}
+ 147: \subsubsection*{Risk Acceptability}
+ 159: \subsubsection*{Overall Evaluation Approach}
+ 171: \subsubsection*{Documentation Limitation}
+ 183: \subsubsection*{Documentary Basis}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_4_3_risk_control.tex ---
+   8: \subsection{Risk Control}
+   9: \addcontentsline{toc}{subsection}{3.4.3 Risk Control}
+  11: \subsubsection*{General}
+  23: \subsubsection*{Risk Control Principles}
+  55: \subsubsection*{Electrical Risk Controls}
+  87: \subsubsection*{Thermal Risk Controls}
+ 111: \subsubsection*{Temperature Sensor Controls}
+ 131: \subsubsection*{Alarm Controls}
+ 157: \subsubsection*{Mechanical Risk Controls}
+ 177: \subsubsection*{Patient-Contact Risk Controls}
+ 198: \subsubsection*{Manufacturing and Process Controls}
+ 213: \subsubsection*{Information for Safety}
+ 225: \subsubsection*{Risk-Control Verification}
+ 237: \subsubsection*{Residual Risk}
+ 246: \subsubsection*{Documentation Limitation}
+ 254: \subsubsection*{Documentary Basis}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_4_4_overall_residual_risk_evaluation.tex ---
+   8: \subsection{Overall Residual Risk Evaluation}
+   9: \addcontentsline{toc}{subsection}{3.4.4 Overall Residual Risk Evaluation}
+  11: \subsubsection*{General}
+  24: \subsubsection*{Risk Management Basis}
+  42: \subsubsection*{Residual Risks Following Risk Control}
+  78: \subsubsection*{Thermal Residual Risk}
+  93: \subsubsection*{Electrical Residual Risk}
+ 104: \subsubsection*{Mechanical Residual Risk}
+ 115: \subsubsection*{Temperature Monitoring Residual Risk}
+ 127: \subsubsection*{Alarm-Related Residual Risk}
+ 139: \subsubsection*{Information for Safety}
+ 165: \subsubsection*{Overall Residual Risk}
+ 178: \subsubsection*{Benefit--Risk Consideration}
+ 191: \subsubsection*{Documentation Limitation}
+ 204: \subsubsection*{Documentary Basis}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_5_annexes.tex ---
+   8: \subsection*{Annexes}
+   9: \addcontentsline{toc}{subsection}{3.5 Annexes}
+  11: \subsubsection*{General}
+  26: \subsubsection*{Manufacturer Documentation}
+  53: \subsubsection*{Technical and Safety Documentation}
+  79: \subsubsection*{Device Identification Documentation}
+ 101: \subsubsection*{Risk Management Annexes}
+ 127: \subsubsection*{Supporting Evidence}
+ 139: \subsubsection*{Document Control}
+ 163: \subsubsection*{Documentary Basis}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_6_bibliographical_references.tex ---
+   8: \subsection*{Bibliographical References}
+   9: \addcontentsline{toc}{subsection}{3.6 Bibliographical References}
+  11: \subsubsection*{General}
+  21: \subsubsection*{Manufacturer Documentation}
+  36: \subsubsection*{Applicable Standards and Reference Documents}
+  68: \subsubsection*{Use of References}
+  80: \subsubsection*{Document Identification}
+ 102: \subsubsection*{Documentary Basis}
+
+--- FILE: structure\partie3_BACKUP_FINAL\partie3_resumes.tex ---
+
+========== END OF REPORT ==========

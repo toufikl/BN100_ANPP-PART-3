@@ -1,0 +1,31 @@
+Project: D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP
+Main file: D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\main_part3.tex
+
+Proposed/confirmed repairs:
+  - Inserted \setcounter{section}{1} after the PART III contents input; Body of Data will be 3.2.
+  - Inserted \setcounter{subsubsection}{4} before raw-material justification to preserve reference numbering; missing section content remains unresolved.
+  - Inserted \setcounter{subsection}{3} before finished-product control to preserve reference numbering; missing section content remains unresolved.
+  - Inserted \setcounter{subsubsection}{4} before finished-product justification to preserve reference numbering; missing section content remains unresolved.
+  - Removed duplicate main-file \section{Annexes}; the included file retains the single heading.
+  - Removed duplicate main-file \section{Bibliographical References}; the included file retains the single heading.
+
+Warnings / unresolved outline gaps:
+  - Expected outline entries not connected by the listed input commands (not auto-created):
+  -   - Raw Materials and/or Components (legacy file is not linked in main_part3.tex)
+  -   - 3.2.3.2 Analytical Procedures
+  -   - 3.2.3.3 Validation of Analytical Procedures
+  -   - 3.2.3.4 Batch Analyses
+  -   - 3.3.2.6 Sterilization / Sterilization Method Validation Report
+  -   - 3.3.3 Control of Excipients
+  -   - 3.3.3.1 Specifications
+  -   - 3.3.3.2 Analytical Procedures
+  -   - 3.3.3.3 Validation of Analytical Procedures
+  -   - 3.3.3.4 Justification of Specifications
+  -   - 3.3.3.5 Excipients of Human or Animal Origin
+  -   - 3.3.4.2 Analytical Procedures
+  -   - 3.3.4.3 Validation of Analytical Procedures
+  -   - 3.3.4.4 Batch Analyses
+  - These entries need source content/files or an explicit 'To be verified' placeholder before they can appear as real TOC sections.
+
+Scope: main_part3.tex only. No medical/technical prose was edited or generated.
+Mode: APPLY

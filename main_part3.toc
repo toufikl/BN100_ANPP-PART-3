@@ -1,0 +1,278 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{PART III: Chemical, Physical, Mechanical and Biological Information}{2}{section*.3}%
+\contentsline {section}{\numberline {3.1}Body of Data}{2}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Scope of the Data}{2}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Technical Information Covered}{2}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Applicability to the BN-100 LUX}{3}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}General Information}{3}{subsection.3.1.4}%
+\contentsline {subsubsection}{Medical Purpose}{3}{section*.4}%
+\contentsline {subsubsection}{Intended Users}{3}{section*.5}%
+\contentsline {subsubsection}{Target Patient Population}{3}{section*.6}%
+\contentsline {subsubsection}{Operating Principle}{3}{section*.7}%
+\contentsline {subsubsection}{Device Configuration}{3}{section*.8}%
+\contentsline {subsubsection}{Device Classification and Characteristics}{4}{section*.9}%
+\contentsline {subsubsection}{Expected Clinical Environment}{4}{section*.10}%
+\contentsline {subsubsection}{Expected Service Life}{5}{section*.11}%
+\contentsline {subsubsection}{Designation}{5}{section*.12}%
+\contentsline {paragraph}{Commercial and Technical Identification}{5}{section*.13}%
+\contentsline {paragraph}{Device Designation}{5}{section*.14}%
+\contentsline {paragraph}{Nature of the Device}{5}{section*.15}%
+\contentsline {paragraph}{Identification and Traceability}{5}{section*.16}%
+\contentsline {subsubsection}{General Properties}{5}{section*.17}%
+\contentsline {paragraph}{General Description}{5}{section*.18}%
+\contentsline {paragraph}{Heating and Temperature Monitoring}{6}{section*.19}%
+\contentsline {paragraph}{Control and Alarm System}{6}{section*.20}%
+\contentsline {paragraph}{Electrical Characteristics and Safety Classification}{7}{section*.21}%
+\contentsline {paragraph}{Environmental Operating Conditions}{7}{section*.22}%
+\contentsline {paragraph}{Storage and Transportation Conditions}{7}{section*.23}%
+\contentsline {paragraph}{Mechanical Characteristics and Load Limits}{8}{section*.24}%
+\contentsline {paragraph}{Service Life}{8}{section*.25}%
+\contentsline {paragraph}{Reusability and Cleaning}{8}{section*.26}%
+\contentsline {paragraph}{Patient Safety-Related Characteristics}{8}{section*.27}%
+\contentsline {paragraph}{Accessories and Optional Modules}{8}{section*.28}%
+\contentsline {paragraph}{Material Information}{9}{section*.29}%
+\contentsline {paragraph}{Applicable Standards and Verification Evidence}{9}{section*.30}%
+\contentsline {subsection}{\numberline {3.1.5}Manufacturing}{10}{subsection.3.1.5}%
+\contentsline {subsubsection}{Manufacturer(s)}{10}{section*.31}%
+\contentsline {paragraph}{Manufacturer Identification}{10}{section*.32}%
+\contentsline {paragraph}{Manufacturing Site Information}{10}{section*.33}%
+\contentsline {paragraph}{Quality Management System Certification}{10}{section*.34}%
+\contentsline {paragraph}{Relationship to the BN-100 LUX}{11}{section*.35}%
+\contentsline {paragraph}{Documentary Basis}{11}{section*.36}%
+\contentsline {subsubsection}{Description of the Manufacturing Process and In-Process Controls}{11}{section*.37}%
+\contentsline {paragraph}{General Description}{11}{section*.38}%
+\contentsline {paragraph}{Main Structural Base}{11}{section*.39}%
+\contentsline {paragraph}{Infant Crib Assembly}{11}{section*.40}%
+\contentsline {paragraph}{Radiant Heating Assembly}{12}{section*.41}%
+\contentsline {paragraph}{Operating and Control Assembly}{12}{section*.42}%
+\contentsline {paragraph}{Electrical and Electronic Assembly}{12}{section*.43}%
+\contentsline {paragraph}{Temperature Monitoring and Alarm-Related Assembly}{13}{section*.44}%
+\contentsline {paragraph}{Assembly and In-Process Controls}{13}{section*.45}%
+\contentsline {paragraph}{Production and Post-Production Control}{14}{section*.46}%
+\contentsline {paragraph}{Manufacturing Documentation}{14}{section*.47}%
+\contentsline {paragraph}{Documentary Basis}{14}{section*.48}%
+\contentsline {subsubsection}{Control of Raw Materials and Components}{15}{section*.49}%
+\contentsline {paragraph}{General}{15}{section*.50}%
+\contentsline {paragraph}{Patient-Contact Materials}{15}{section*.51}%
+\contentsline {paragraph}{Critical Components}{15}{section*.52}%
+\contentsline {paragraph}{Control Basis}{16}{section*.53}%
+\contentsline {paragraph}{Relation to Risk Management}{16}{section*.54}%
+\contentsline {subsubsection}{Control of Critical Steps and Intermediate Products}{17}{section*.55}%
+\contentsline {paragraph}{General}{17}{section*.56}%
+\contentsline {paragraph}{Mechanical Assembly Controls}{17}{section*.57}%
+\contentsline {paragraph}{Radiant Heating Assembly}{17}{section*.58}%
+\contentsline {paragraph}{Temperature Monitoring and Control}{17}{section*.59}%
+\contentsline {paragraph}{Electrical and Electronic Assembly}{18}{section*.60}%
+\contentsline {paragraph}{Alarm and Safety Functions}{18}{section*.61}%
+\contentsline {paragraph}{Intermediate Products and Subassemblies}{18}{section*.62}%
+\contentsline {paragraph}{Production Controls}{18}{section*.63}%
+\contentsline {paragraph}{Documentary Basis}{19}{section*.64}%
+\contentsline {subsubsection}{Validation and/or Evaluation of the Manufacturing Process}{19}{section*.65}%
+\contentsline {paragraph}{General}{19}{section*.66}%
+\contentsline {paragraph}{Manufacturing Process Evaluation}{19}{section*.67}%
+\contentsline {paragraph}{Process Validation}{19}{section*.68}%
+\contentsline {paragraph}{Safety-Relevant Manufacturing Activities}{19}{section*.69}%
+\contentsline {paragraph}{Relationship with Risk Management}{20}{section*.70}%
+\contentsline {paragraph}{Documentary Evidence}{20}{section*.71}%
+\contentsline {subsubsection}{Development of the Manufacturing Process}{21}{section*.72}%
+\contentsline {paragraph}{General}{21}{section*.73}%
+\contentsline {paragraph}{Manufacturing Process Development}{21}{section*.74}%
+\contentsline {paragraph}{Relationship Between Product Design and Manufacturing}{21}{section*.75}%
+\contentsline {paragraph}{Manufacturing Changes}{22}{section*.76}%
+\contentsline {paragraph}{Transfer to Routine Production}{22}{section*.77}%
+\contentsline {paragraph}{Risk Management Considerations}{22}{section*.78}%
+\contentsline {paragraph}{Documentary Basis}{22}{section*.79}%
+\contentsline {subsection}{\numberline {3.1.6}Control of Raw Material}{23}{subsection.3.1.6}%
+\contentsline {subsubsection}{Specifications}{23}{section*.80}%
+\contentsline {paragraph}{General}{23}{section*.81}%
+\contentsline {paragraph}{Patient-Contact Materials}{23}{section*.82}%
+\contentsline {paragraph}{Critical Components}{23}{section*.83}%
+\contentsline {paragraph}{Component Identification and Control}{24}{section*.84}%
+\contentsline {paragraph}{Relationship with Risk Management}{24}{section*.85}%
+\contentsline {paragraph}{Documentary Basis}{25}{section*.86}%
+\contentsline {subsubsection}{Justification of Specifications}{25}{section*.87}%
+\contentsline {paragraph}{General}{25}{section*.88}%
+\contentsline {paragraph}{Patient-Contact Materials}{25}{section*.89}%
+\contentsline {paragraph}{Critical Components}{26}{section*.90}%
+\contentsline {paragraph}{Relationship with Device Safety and Performance}{26}{section*.91}%
+\contentsline {paragraph}{Scope of the Documented Specifications}{27}{section*.92}%
+\contentsline {paragraph}{Regulatory Conclusion}{27}{section*.93}%
+\contentsline {paragraph}{Documentary Basis}{27}{section*.94}%
+\contentsline {section}{\numberline {3.2}Finished Product}{27}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Description and Composition of the Finished Product}{27}{subsection.3.2.1}%
+\contentsline {subsubsection}{General Description}{27}{section*.95}%
+\contentsline {subsubsection}{Device Configuration}{28}{section*.96}%
+\contentsline {subsubsection}{Principal Materials}{28}{section*.97}%
+\contentsline {subsubsection}{Temperature Monitoring and Control}{29}{section*.98}%
+\contentsline {subsubsection}{Heating System}{29}{section*.99}%
+\contentsline {subsubsection}{Alarm and Safety Functions}{29}{section*.100}%
+\contentsline {subsubsection}{Electrical and Electronic Components}{30}{section*.101}%
+\contentsline {subsubsection}{Patient Contact}{30}{section*.102}%
+\contentsline {subsubsection}{Accessories and Optional Components}{30}{section*.103}%
+\contentsline {subsubsection}{Non-Sterile and Reusable Device}{31}{section*.104}%
+\contentsline {subsection}{\numberline {3.2.2}Manufacturing}{31}{subsection.3.2.2}%
+\contentsline {subsubsection}{Manufacturer(s)}{31}{section*.105}%
+\contentsline {paragraph}{Manufacturer Identification}{31}{section*.106}%
+\contentsline {paragraph}{Manufacturing Site}{31}{section*.107}%
+\contentsline {paragraph}{Quality Management System}{31}{section*.108}%
+\contentsline {subsubsection}{Composition}{31}{section*.109}%
+\contentsline {paragraph}{General}{31}{section*.110}%
+\contentsline {paragraph}{Mechanical Assemblies}{32}{section*.111}%
+\contentsline {paragraph}{Radiant Heating Assembly}{32}{section*.112}%
+\contentsline {paragraph}{Control and Operating Assembly}{32}{section*.113}%
+\contentsline {paragraph}{Temperature Monitoring System}{33}{section*.114}%
+\contentsline {paragraph}{Electrical and Electronic Composition}{33}{section*.115}%
+\contentsline {paragraph}{Patient-Contact Components}{34}{section*.116}%
+\contentsline {paragraph}{Accessories and Configurable Components}{34}{section*.117}%
+\contentsline {paragraph}{Composition and Risk Management}{34}{section*.118}%
+\contentsline {subsubsection}{Description of the Manufacturing Process and Operational Controls}{34}{section*.119}%
+\contentsline {paragraph}{General}{34}{section*.120}%
+\contentsline {paragraph}{Mechanical Structure and Base Assembly}{35}{section*.121}%
+\contentsline {paragraph}{Radiant Heating Assembly}{35}{section*.122}%
+\contentsline {paragraph}{Operating and Control Assembly}{35}{section*.123}%
+\contentsline {paragraph}{Temperature Monitoring and Control}{35}{section*.124}%
+\contentsline {paragraph}{Electrical and Electronic Assembly}{36}{section*.125}%
+\contentsline {paragraph}{Alarm and Safety-Related Operations}{37}{section*.126}%
+\contentsline {paragraph}{Integration of the Finished Device}{37}{section*.127}%
+\contentsline {paragraph}{Manufacturing Controls and Risk Management}{37}{section*.128}%
+\contentsline {subsubsection}{Controls of Critical Steps and Intermediate Steps}{37}{section*.129}%
+\contentsline {paragraph}{General}{37}{section*.130}%
+\contentsline {paragraph}{Mechanical Assemblies}{38}{section*.131}%
+\contentsline {paragraph}{Radiant Heating Assembly}{38}{section*.132}%
+\contentsline {paragraph}{Temperature Monitoring System}{38}{section*.133}%
+\contentsline {paragraph}{Electrical and Electronic Components}{39}{section*.134}%
+\contentsline {paragraph}{Safety-Related Functions}{39}{section*.135}%
+\contentsline {paragraph}{Manufacturing Process Risk Control}{40}{section*.136}%
+\contentsline {paragraph}{Intermediate Products and Assemblies}{40}{section*.137}%
+\contentsline {paragraph}{Documentation Limitation}{40}{section*.138}%
+\contentsline {subsubsection}{Process Validation and/or Evaluation}{40}{section*.139}%
+\contentsline {paragraph}{General}{40}{section*.140}%
+\contentsline {paragraph}{Manufacturing Processes Addressed in the Available Documentation}{41}{section*.141}%
+\contentsline {paragraph}{Risk-Based Consideration}{41}{section*.142}%
+\contentsline {paragraph}{Process Validation Evidence}{41}{section*.143}%
+\contentsline {paragraph}{Process Evaluation}{42}{section*.144}%
+\contentsline {paragraph}{Applicability of Process Validation}{42}{section*.145}%
+\contentsline {paragraph}{Conclusion}{42}{section*.146}%
+\contentsline {subsection}{\numberline {3.2.3}Control of the Finished Product}{42}{subsection.3.2.3}%
+\contentsline {subsubsection}{General}{42}{section*.147}%
+\contentsline {subsubsection}{Safety-Related Finished Product Functions}{42}{section*.148}%
+\contentsline {subsubsection}{Critical Components}{43}{section*.149}%
+\contentsline {subsubsection}{Patient-Contact Materials}{43}{section*.150}%
+\contentsline {subsubsection}{Finished Product Safety Considerations}{44}{section*.151}%
+\contentsline {subsubsection}{Documentation Limitation}{44}{section*.152}%
+\contentsline {subsubsection}{Documentary Basis}{44}{section*.153}%
+\contentsline {subsubsection}{Specifications}{44}{section*.154}%
+\contentsline {paragraph}{General}{44}{section*.155}%
+\contentsline {paragraph}{Electrical Specifications}{44}{section*.156}%
+\contentsline {paragraph}{Environmental Operating Conditions}{45}{section*.157}%
+\contentsline {paragraph}{Temperature Control Specifications}{45}{section*.158}%
+\contentsline {paragraph}{Alarm and Protection Specifications}{45}{section*.159}%
+\contentsline {paragraph}{Storage Conditions}{45}{section*.160}%
+\contentsline {paragraph}{Mechanical Specifications}{46}{section*.161}%
+\contentsline {paragraph}{Documentary Basis}{46}{section*.162}%
+\contentsline {subsubsection}{Justification of Specifications}{46}{section*.163}%
+\contentsline {paragraph}{General}{46}{section*.164}%
+\contentsline {paragraph}{Electrical Specifications}{46}{section*.165}%
+\contentsline {paragraph}{Environmental Specifications}{46}{section*.166}%
+\contentsline {paragraph}{Temperature Control Specifications}{47}{section*.167}%
+\contentsline {paragraph}{Alarm and Protection Specifications}{47}{section*.168}%
+\contentsline {paragraph}{Mechanical Specifications}{47}{section*.169}%
+\contentsline {paragraph}{Patient-Contact Materials}{47}{section*.170}%
+\contentsline {paragraph}{Risk Management Relationship}{47}{section*.171}%
+\contentsline {paragraph}{Limitation of the Justification}{48}{section*.172}%
+\contentsline {paragraph}{Documentary Basis}{48}{section*.173}%
+\contentsline {subsection}{\numberline {3.2.4}Reference Standards}{48}{subsection.3.2.4}%
+\contentsline {subsubsection}{General}{48}{section*.174}%
+\contentsline {subsubsection}{IEC 60601-1}{48}{section*.175}%
+\contentsline {subsubsection}{IEC 60601-1-2}{48}{section*.176}%
+\contentsline {subsubsection}{IEC 60601-1-8}{49}{section*.177}%
+\contentsline {subsubsection}{ISO 14971}{49}{section*.178}%
+\contentsline {subsubsection}{Relationship with the Device}{49}{section*.179}%
+\contentsline {subsubsection}{Documentation Status}{49}{section*.180}%
+\contentsline {subsubsection}{Documentary Basis}{49}{section*.181}%
+\contentsline {subsection}{\numberline {3.2.5}Stability}{50}{subsection.3.2.5}%
+\contentsline {subsubsection}{General}{50}{section*.182}%
+\contentsline {subsubsection}{Storage Conditions}{50}{section*.183}%
+\contentsline {subsubsection}{Operating Conditions}{50}{section*.184}%
+\contentsline {subsubsection}{Service Life}{50}{section*.185}%
+\contentsline {subsubsection}{Heater Tube Lifetime}{50}{section*.186}%
+\contentsline {subsubsection}{Durability Considerations}{51}{section*.187}%
+\contentsline {subsubsection}{Transportation and Storage}{51}{section*.188}%
+\contentsline {subsubsection}{Assessment of Stability}{51}{section*.189}%
+\contentsline {subsubsection}{Documentation Limitation}{51}{section*.190}%
+\contentsline {subsubsection}{Documentary Basis}{52}{section*.191}%
+\contentsline {section}{\numberline {3.3}Risk Analysis Report}{52}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Risk Analysis}{52}{subsection.3.3.1}%
+\contentsline {subsubsection}{General}{52}{section*.192}%
+\contentsline {subsubsection}{Risk Management Basis}{52}{section*.193}%
+\contentsline {subsubsection}{Identification of Hazards}{52}{section*.194}%
+\contentsline {subsubsection}{Electrical Hazards}{53}{section*.195}%
+\contentsline {subsubsection}{Thermal Hazards}{53}{section*.196}%
+\contentsline {subsubsection}{Temperature Monitoring Hazards}{54}{section*.197}%
+\contentsline {subsubsection}{Alarm-Related Hazards}{54}{section*.198}%
+\contentsline {subsubsection}{Mechanical Hazards}{54}{section*.199}%
+\contentsline {subsubsection}{Patient-Contact Hazards}{54}{section*.200}%
+\contentsline {subsubsection}{Manufacturing-Related Risks}{55}{section*.201}%
+\contentsline {subsubsection}{Risk Analysis Approach}{55}{section*.202}%
+\contentsline {subsubsection}{Documentation Limitation}{55}{section*.203}%
+\contentsline {subsubsection}{Documentary Basis}{55}{section*.204}%
+\contentsline {subsection}{\numberline {3.3.2}Risk Evaluation}{56}{subsection.3.3.2}%
+\contentsline {subsubsection}{General}{56}{section*.205}%
+\contentsline {subsubsection}{Risk Evaluation Basis}{56}{section*.206}%
+\contentsline {subsubsection}{Evaluation of Identified Risks}{56}{section*.207}%
+\contentsline {subsubsection}{Electrical Risk Evaluation}{56}{section*.208}%
+\contentsline {subsubsection}{Thermal Risk Evaluation}{56}{section*.209}%
+\contentsline {subsubsection}{Temperature Sensor Risk Evaluation}{57}{section*.210}%
+\contentsline {subsubsection}{Alarm System Risk Evaluation}{57}{section*.211}%
+\contentsline {subsubsection}{Mechanical Risk Evaluation}{57}{section*.212}%
+\contentsline {subsubsection}{Patient-Contact Risk Evaluation}{57}{section*.213}%
+\contentsline {subsubsection}{Manufacturing Risk Evaluation}{58}{section*.214}%
+\contentsline {subsubsection}{Risk Acceptability}{58}{section*.215}%
+\contentsline {subsubsection}{Overall Evaluation Approach}{58}{section*.216}%
+\contentsline {subsubsection}{Documentation Limitation}{58}{section*.217}%
+\contentsline {subsubsection}{Documentary Basis}{58}{section*.218}%
+\contentsline {subsection}{\numberline {3.3.3}Risk Control}{59}{subsection.3.3.3}%
+\contentsline {subsubsection}{General}{59}{section*.219}%
+\contentsline {subsubsection}{Risk Control Principles}{59}{section*.220}%
+\contentsline {subsubsection}{Electrical Risk Controls}{59}{section*.221}%
+\contentsline {subsubsection}{Thermal Risk Controls}{60}{section*.222}%
+\contentsline {subsubsection}{Temperature Sensor Controls}{60}{section*.223}%
+\contentsline {subsubsection}{Alarm Controls}{60}{section*.224}%
+\contentsline {subsubsection}{Mechanical Risk Controls}{61}{section*.225}%
+\contentsline {subsubsection}{Patient-Contact Risk Controls}{61}{section*.226}%
+\contentsline {subsubsection}{Manufacturing and Process Controls}{61}{section*.227}%
+\contentsline {subsubsection}{Information for Safety}{62}{section*.228}%
+\contentsline {subsubsection}{Risk-Control Verification}{62}{section*.229}%
+\contentsline {subsubsection}{Residual Risk}{62}{section*.230}%
+\contentsline {subsubsection}{Documentation Limitation}{62}{section*.231}%
+\contentsline {subsubsection}{Documentary Basis}{62}{section*.232}%
+\contentsline {subsection}{\numberline {3.3.4}Overall Residual Risk Evaluation}{62}{subsection.3.3.4}%
+\contentsline {subsubsection}{General}{62}{section*.233}%
+\contentsline {subsubsection}{Risk Management Basis}{63}{section*.234}%
+\contentsline {subsubsection}{Residual Risks Following Risk Control}{63}{section*.235}%
+\contentsline {subsubsection}{Thermal Residual Risk}{63}{section*.236}%
+\contentsline {subsubsection}{Electrical Residual Risk}{64}{section*.237}%
+\contentsline {subsubsection}{Mechanical Residual Risk}{64}{section*.238}%
+\contentsline {subsubsection}{Temperature Monitoring Residual Risk}{64}{section*.239}%
+\contentsline {subsubsection}{Alarm-Related Residual Risk}{64}{section*.240}%
+\contentsline {subsubsection}{Information for Safety}{64}{section*.241}%
+\contentsline {subsubsection}{Overall Residual Risk}{65}{section*.242}%
+\contentsline {subsubsection}{Benefit--Risk Consideration}{65}{section*.243}%
+\contentsline {subsubsection}{Documentation Limitation}{65}{section*.244}%
+\contentsline {subsubsection}{Documentary Basis}{65}{section*.245}%
+\contentsline {section}{\numberline {3.4}Annexes}{66}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}General}{66}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Manufacturer Documentation}{66}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Technical and Safety Documentation}{66}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}Device Identification Documentation}{67}{subsection.3.4.4}%
+\contentsline {subsection}{\numberline {3.4.5}Risk Management Annexes}{67}{subsection.3.4.5}%
+\contentsline {subsection}{\numberline {3.4.6}Supporting Evidence}{67}{subsection.3.4.6}%
+\contentsline {subsection}{\numberline {3.4.7}Document Control}{68}{subsection.3.4.7}%
+\contentsline {subsection}{\numberline {3.4.8}Documentary Basis}{68}{subsection.3.4.8}%
+\contentsline {section}{\numberline {3.5}Bibliographical References}{68}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}General}{68}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Manufacturer Documentation}{68}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Applicable Standards and Reference Documents}{69}{subsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.5.4}Use of References}{69}{subsection.3.5.4}%
+\contentsline {subsection}{\numberline {3.5.5}Document Identification}{69}{subsection.3.5.5}%
+\contentsline {subsection}{\numberline {3.5.6}Documentary Basis}{69}{subsection.3.5.6}%

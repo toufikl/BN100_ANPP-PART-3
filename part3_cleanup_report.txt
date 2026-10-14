@@ -1,0 +1,48 @@
+=== BN-100 LUX PART III AUDIT ===
+Project: D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP
+
+1. Missing input/include files
+None detected.
+
+2. References to the heading-only TOC file
+REVIEW: _backup_main_part3_numbering\20260921_100022\main_part3.tex:76: %\input{structure/partie3/partie3_1_table_of_contents}
+REVIEW: BACKUP_BEFORE_PART3_FIX_20261012_095339\main_part3.tex:100: \input{structure/partie3/partie3_1_table_of_contents}
+EXPECTED: main_part3.tex:100: \input{structure/partie3/partie3_1_table_of_contents}
+REVIEW: structure\partie3_technique.tex:11: %\input{structure/partie3/partie3_1_table_of_contents}
+REVIEW: structure_backup_before_numbering_fix\partie3_technique.tex:11: \input{structure/partie3/partie3_1_table_of_contents}
+
+3. Potential duplicate numbered TOC entries
+BACKUP_BEFORE_PART3_FIX_20261012_095339\partie3\partie3_2_1_1_designation.tex:9: \addcontentsline{toc}{subsubsection}{3.2.1.1 Designation}
+BACKUP_BEFORE_PART3_FIX_20261012_095339\partie3\partie3_2_1_2_general_properties.tex:10: \addcontentsline{toc}{subsubsection}{3.2.1.2 General Properties}
+BACKUP_BEFORE_PART3_FIX_20261012_095339\partie3\partie3_2_1_general_information.tex:10: \addcontentsline{toc}{subsection}{3.2.1 General Information}
+BACKUP_BEFORE_PART3_FIX_20261012_095339\partie3\partie3_2_body_of_data.tex:10: \addcontentsline{toc}{section}{3.2 Body of Data}
+BACKUP_BEFORE_PART3_FIX_20261012_095339\partie3\partie3_3_4_1_specifications.tex:9: \addcontentsline{toc}{subsection}{3.3.4.1 Specifications}
+BACKUP_BEFORE_PART3_FIX_20261012_095339\partie3\partie3_3_4_5_justification_specifications.tex:8: \addcontentsline{toc}{subsection}{3.3.4.5 Justification of Specifications}
+BACKUP_BEFORE_PART3_FIX_20261012_095339\partie3\partie3_3_4_finished_product_control.tex:8: \addcontentsline{toc}{subsection}{3.3.4 Control of the Finished Product}
+BACKUP_BEFORE_PART3_FIX_20261012_095339\partie3\partie3_3_5_standards.tex:9: \addcontentsline{toc}{subsection}{3.3.5 Normes or Reference Standards}
+BACKUP_BEFORE_PART3_FIX_20261012_095339\partie3\partie3_3_6_stability.tex:9: \addcontentsline{toc}{subsection}{3.3.6 Stability}
+BACKUP_BEFORE_PART3_FIX_20261012_095339\partie3\partie3_4_1_risk_analysis.tex:9: \addcontentsline{toc}{subsection}{3.4.1 Risk Analysis}
+BACKUP_BEFORE_PART3_FIX_20261012_095339\partie3\partie3_4_2_risk_evaluation.tex:9: \addcontentsline{toc}{subsection}{3.4.2 Risk Evaluation}
+BACKUP_BEFORE_PART3_FIX_20261012_095339\partie3\partie3_4_3_risk_control.tex:9: \addcontentsline{toc}{subsection}{3.4.3 Risk Control}
+BACKUP_BEFORE_PART3_FIX_20261012_095339\partie3\partie3_4_4_overall_residual_risk_evaluation.tex:9: \addcontentsline{toc}{subsection}{3.4.4 Overall Residual Risk Evaluation}
+BACKUP_BEFORE_PART3_FIX_20261012_095339\partie3\partie3_5_annexes.tex:9: \addcontentsline{toc}{subsection}{3.5 Annexes}
+BACKUP_BEFORE_PART3_FIX_20261012_095339\partie3\partie3_6_bibliographical_references.tex:9: \addcontentsline{toc}{subsection}{3.6 Bibliographical References}
+structure\partie3_backup\partie3_4_1_risk_analysis.tex:9: \addcontentsline{toc}{subsection}{3.4.1 Risk Analysis}
+structure\partie3_backup\partie3_4_2_risk_evaluation.tex:9: \addcontentsline{toc}{subsection}{3.4.2 Risk Evaluation}
+structure\partie3_backup\partie3_4_3_risk_control.tex:9: \addcontentsline{toc}{subsection}{3.4.3 Risk Control}
+structure\partie3_backup\partie3_4_4_overall_residual_risk_evaluation.tex:9: \addcontentsline{toc}{subsection}{3.4.4 Overall Residual Risk Evaluation}
+structure\partie3_BACKUP_FINAL\partie3_4_1_risk_analysis.tex:9: \addcontentsline{toc}{subsection}{3.4.1 Risk Analysis}
+structure\partie3_BACKUP_FINAL\partie3_4_2_risk_evaluation.tex:9: \addcontentsline{toc}{subsection}{3.4.2 Risk Evaluation}
+structure\partie3_BACKUP_FINAL\partie3_4_3_risk_control.tex:9: \addcontentsline{toc}{subsection}{3.4.3 Risk Control}
+structure\partie3_BACKUP_FINAL\partie3_4_4_overall_residual_risk_evaluation.tex:9: \addcontentsline{toc}{subsection}{3.4.4 Overall Residual Risk Evaluation}
+
+4. Structural anchors
+Automatic table of contents: FOUND
+Heading-only TOC input: FOUND
+Section counter initialization: FOUND
+PART III heading: FOUND
+Manual enumerate environment: NOT PRESENT
+Annexes section heading: PRESENT — RETAINED
+
+5. Scope and limitations
+This audit checks selected LaTeX structure and file references. It does not validate medical-device specifications, regulatory classification, technical claims, or ANPP compliance.

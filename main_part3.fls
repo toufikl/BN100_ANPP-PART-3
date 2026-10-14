@@ -1,0 +1,491 @@
+PWD d:\SKALBEL SANTE\Desktop\TOUFIK\BN100_PART3_WORKSPACE
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT d:\SKALBEL SANTE\Desktop\TOUFIK\BN100_PART3_WORKSPACE\main_part3.tex
+OUTPUT main_part3.log
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1200.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\babel\txtbabel.def
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\en\babel-english.tex
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\en\babel-english.tex
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\en\babel-english.tex
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\en\babel-en.ini
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\babel-english\english.ldf
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\babel-english\english.ldf
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\babel-english\english.ldf
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\newtxtext.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\newtxtext.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\xpatch\xpatch.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\xpatch\xpatch.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\xkeyval\xkeyval.tex
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\xkeyval\xkvutils.tex
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\xstring\xstring.tex
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\carlisle\scalefnt.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\carlisle\scalefnt.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\mweights\mweights.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\binhex\binhex.tex
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\binhex\binhex.tex
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\binhex\binhex.tex
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\binhex\binhex.tex
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\binhex\binhex.tex
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\fontaxes\fontaxes.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\fontaxes\fontaxes.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\figureversions\figureversions.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\figureversions\figureversions.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\newtxmath.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\newtxmath.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\oberdiek\centernot.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\oberdiek\centernot.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\binhex\binhex.tex
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\tools\longtable.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\tools\longtable.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\stringenc.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\stringenc.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\t1ntxtlf.fd
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\t1ntxtlf.fd
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\t1ntxtlf.fd
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-t1.tfm
+INPUT .\main_part3.aux
+INPUT .\main_part3.aux
+INPUT main_part3.aux
+OUTPUT main_part3.aux
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\omlntxmi.fd
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\omlntxmi.fd
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\omlntxmi.fd
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxexa.fd
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxexa.fd
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxexa.fd
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\lmsntxsy.fd
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\lmsntxsy.fd
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\lmsntxsy.fd
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\lmxntxexx.fd
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\lmxntxexx.fd
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\lmxntxexx.fd
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
+INPUT .\main_part3.out
+INPUT .\main_part3.out
+INPUT main_part3.out
+INPUT main_part3.out
+OUTPUT main_part3.pdf
+INPUT .\main_part3.out
+INPUT .\main_part3.out
+OUTPUT main_part3.out
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-t1.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-t1.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-t1.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-t1.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-t1.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-t1.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\newtx\ntx-ec-tlf.enc
+INPUT .\main_part3.toc
+INPUT .\main_part3.toc
+INPUT main_part3.toc
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-t1.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ot1minntx.fd
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ot1minntx.fd
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ot1minntx.fd
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmi.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmi.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmi7.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsy.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsy.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsy7.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxmia.fd
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxmia.fd
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxmia.fd
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmia.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmia.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmia.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxsym.fd
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxsym.fd
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxsym.fd
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxsyc.fd
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxsyc.fd
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxsyc.fd
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+OUTPUT main_part3.toc
+INPUT .\partie3\partie3_1_table_of_contents.tex
+INPUT .\partie3\partie3_1_table_of_contents.tex
+INPUT .\partie3\partie3_1_table_of_contents.tex
+INPUT .\partie3\partie3_1_table_of_contents.tex
+INPUT partie3\partie3_1_table_of_contents.tex
+INPUT .\partie3\partie3_2_body_of_data.tex
+INPUT .\partie3\partie3_2_body_of_data.tex
+INPUT .\partie3\partie3_2_body_of_data.tex
+INPUT .\partie3\partie3_2_body_of_data.tex
+INPUT partie3\partie3_2_body_of_data.tex
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-t1.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-t1.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\tex-gyre\ts1-qtmr.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\tex-gyre\q-ts1.enc
+INPUT .\partie3\partie3_2_1_general_information.tex
+INPUT .\partie3\partie3_2_1_general_information.tex
+INPUT .\partie3\partie3_2_1_general_information.tex
+INPUT .\partie3\partie3_2_1_general_information.tex
+INPUT partie3\partie3_2_1_general_information.tex
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntxsy.vf
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Regular-tlf-ot1.vf
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1r.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\newtx\ntx-ot1-tlf.enc
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntxsy.vf
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT .\partie3\partie3_2_1_1_designation.tex
+INPUT .\partie3\partie3_2_1_1_designation.tex
+INPUT .\partie3\partie3_2_1_1_designation.tex
+INPUT .\partie3\partie3_2_1_1_designation.tex
+INPUT partie3\partie3_2_1_1_designation.tex
+INPUT .\partie3\partie3_2_1_2_general_properties.tex
+INPUT .\partie3\partie3_2_1_2_general_properties.tex
+INPUT .\partie3\partie3_2_1_2_general_properties.tex
+INPUT .\partie3\partie3_2_1_2_general_properties.tex
+INPUT partie3\partie3_2_1_2_general_properties.tex
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntxmi.vf
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
+INPUT .\partie3\partie3_2_2_manufacturing.tex
+INPUT .\partie3\partie3_2_2_manufacturing.tex
+INPUT .\partie3\partie3_2_2_manufacturing.tex
+INPUT .\partie3\partie3_2_2_manufacturing.tex
+INPUT partie3\partie3_2_2_manufacturing.tex
+INPUT .\partie3\partie3_2_2_1_manufacturers.tex
+INPUT .\partie3\partie3_2_2_1_manufacturers.tex
+INPUT .\partie3\partie3_2_2_1_manufacturers.tex
+INPUT .\partie3\partie3_2_2_1_manufacturers.tex
+INPUT partie3\partie3_2_2_1_manufacturers.tex
+INPUT .\partie3\partie3_2_2_2_manufacturing_process.tex
+INPUT .\partie3\partie3_2_2_2_manufacturing_process.tex
+INPUT .\partie3\partie3_2_2_2_manufacturing_process.tex
+INPUT .\partie3\partie3_2_2_2_manufacturing_process.tex
+INPUT partie3\partie3_2_2_2_manufacturing_process.tex
+INPUT .\partie3\partie3_2_2_3_raw_materials_components_control.tex
+INPUT .\partie3\partie3_2_2_3_raw_materials_components_control.tex
+INPUT .\partie3\partie3_2_2_3_raw_materials_components_control.tex
+INPUT .\partie3\partie3_2_2_3_raw_materials_components_control.tex
+INPUT partie3\partie3_2_2_3_raw_materials_components_control.tex
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Regular-tlf-ot1.vf
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1r.tfm
+INPUT .\partie3\partie3_2_2_4_critical_steps_intermediate_products.tex
+INPUT .\partie3\partie3_2_2_4_critical_steps_intermediate_products.tex
+INPUT .\partie3\partie3_2_2_4_critical_steps_intermediate_products.tex
+INPUT .\partie3\partie3_2_2_4_critical_steps_intermediate_products.tex
+INPUT partie3\partie3_2_2_4_critical_steps_intermediate_products.tex
+INPUT .\partie3\partie3_2_2_5_process_validation.tex
+INPUT .\partie3\partie3_2_2_5_process_validation.tex
+INPUT .\partie3\partie3_2_2_5_process_validation.tex
+INPUT .\partie3\partie3_2_2_5_process_validation.tex
+INPUT partie3\partie3_2_2_5_process_validation.tex
+INPUT .\partie3\partie3_2_2_6_manufacturing_process_development.tex
+INPUT .\partie3\partie3_2_2_6_manufacturing_process_development.tex
+INPUT .\partie3\partie3_2_2_6_manufacturing_process_development.tex
+INPUT .\partie3\partie3_2_2_6_manufacturing_process_development.tex
+INPUT partie3\partie3_2_2_6_manufacturing_process_development.tex
+INPUT .\partie3\partie3_2_3_control_raw_material.tex
+INPUT .\partie3\partie3_2_3_control_raw_material.tex
+INPUT .\partie3\partie3_2_3_control_raw_material.tex
+INPUT .\partie3\partie3_2_3_control_raw_material.tex
+INPUT partie3\partie3_2_3_control_raw_material.tex
+INPUT .\partie3\partie3_2_3_1_specifications.tex
+INPUT .\partie3\partie3_2_3_1_specifications.tex
+INPUT .\partie3\partie3_2_3_1_specifications.tex
+INPUT .\partie3\partie3_2_3_1_specifications.tex
+INPUT partie3\partie3_2_3_1_specifications.tex
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-t1.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-t1.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmi.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmi7.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmi5.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsy.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsy7.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsy5.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmia.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmia.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmia.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Regular-tlf-ot1.vf
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1r.tfm
+INPUT .\partie3\partie3_2_3_5_justification_specifications.tex
+INPUT .\partie3\partie3_2_3_5_justification_specifications.tex
+INPUT .\partie3\partie3_2_3_5_justification_specifications.tex
+INPUT .\partie3\partie3_2_3_5_justification_specifications.tex
+INPUT partie3\partie3_2_3_5_justification_specifications.tex
+INPUT .\partie3\partie3_3_finished_product.tex
+INPUT .\partie3\partie3_3_finished_product.tex
+INPUT .\partie3\partie3_3_finished_product.tex
+INPUT .\partie3\partie3_3_finished_product.tex
+INPUT partie3\partie3_3_finished_product.tex
+INPUT .\partie3\partie3_3_1_finished_product_description.tex
+INPUT .\partie3\partie3_3_1_finished_product_description.tex
+INPUT .\partie3\partie3_3_1_finished_product_description.tex
+INPUT .\partie3\partie3_3_1_finished_product_description.tex
+INPUT partie3\partie3_3_1_finished_product_description.tex
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-t1.tfm
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-t1.tfm
+INPUT .\partie3\partie3_3_2_manufacturing.tex
+INPUT .\partie3\partie3_3_2_manufacturing.tex
+INPUT .\partie3\partie3_3_2_manufacturing.tex
+INPUT .\partie3\partie3_3_2_manufacturing.tex
+INPUT partie3\partie3_3_2_manufacturing.tex
+INPUT .\partie3\partie3_3_2_1_manufacturers.tex
+INPUT .\partie3\partie3_3_2_1_manufacturers.tex
+INPUT .\partie3\partie3_3_2_1_manufacturers.tex
+INPUT .\partie3\partie3_3_2_1_manufacturers.tex
+INPUT partie3\partie3_3_2_1_manufacturers.tex
+INPUT .\partie3\partie3_3_2_2_composition.tex
+INPUT .\partie3\partie3_3_2_2_composition.tex
+INPUT .\partie3\partie3_3_2_2_composition.tex
+INPUT .\partie3\partie3_3_2_2_composition.tex
+INPUT partie3\partie3_3_2_2_composition.tex
+INPUT .\partie3\partie3_3_2_3_manufacturing_process_controls.tex
+INPUT .\partie3\partie3_3_2_3_manufacturing_process_controls.tex
+INPUT .\partie3\partie3_3_2_3_manufacturing_process_controls.tex
+INPUT .\partie3\partie3_3_2_3_manufacturing_process_controls.tex
+INPUT partie3\partie3_3_2_3_manufacturing_process_controls.tex
+INPUT .\partie3\partie3_3_2_4_critical_steps_intermediate_controls.tex
+INPUT .\partie3\partie3_3_2_4_critical_steps_intermediate_controls.tex
+INPUT .\partie3\partie3_3_2_4_critical_steps_intermediate_controls.tex
+INPUT .\partie3\partie3_3_2_4_critical_steps_intermediate_controls.tex
+INPUT partie3\partie3_3_2_4_critical_steps_intermediate_controls.tex
+INPUT .\partie3\partie3_3_2_5_process_validation.tex
+INPUT .\partie3\partie3_3_2_5_process_validation.tex
+INPUT .\partie3\partie3_3_2_5_process_validation.tex
+INPUT .\partie3\partie3_3_2_5_process_validation.tex
+INPUT partie3\partie3_3_2_5_process_validation.tex
+INPUT .\partie3\partie3_3_4_finished_product_control.tex
+INPUT .\partie3\partie3_3_4_finished_product_control.tex
+INPUT .\partie3\partie3_3_4_finished_product_control.tex
+INPUT .\partie3\partie3_3_4_finished_product_control.tex
+INPUT partie3\partie3_3_4_finished_product_control.tex
+INPUT .\partie3\partie3_3_4_1_specifications.tex
+INPUT .\partie3\partie3_3_4_1_specifications.tex
+INPUT .\partie3\partie3_3_4_1_specifications.tex
+INPUT .\partie3\partie3_3_4_1_specifications.tex
+INPUT partie3\partie3_3_4_1_specifications.tex
+INPUT .\partie3\partie3_3_4_5_justification_specifications.tex
+INPUT .\partie3\partie3_3_4_5_justification_specifications.tex
+INPUT .\partie3\partie3_3_4_5_justification_specifications.tex
+INPUT .\partie3\partie3_3_4_5_justification_specifications.tex
+INPUT partie3\partie3_3_4_5_justification_specifications.tex
+INPUT .\partie3\partie3_3_5_standards.tex
+INPUT .\partie3\partie3_3_5_standards.tex
+INPUT .\partie3\partie3_3_5_standards.tex
+INPUT .\partie3\partie3_3_5_standards.tex
+INPUT partie3\partie3_3_5_standards.tex
+INPUT .\partie3\partie3_3_6_stability.tex
+INPUT .\partie3\partie3_3_6_stability.tex
+INPUT .\partie3\partie3_3_6_stability.tex
+INPUT .\partie3\partie3_3_6_stability.tex
+INPUT partie3\partie3_3_6_stability.tex
+INPUT .\partie3\partie3_4_1_risk_analysis.tex
+INPUT .\partie3\partie3_4_1_risk_analysis.tex
+INPUT .\partie3\partie3_4_1_risk_analysis.tex
+INPUT .\partie3\partie3_4_1_risk_analysis.tex
+INPUT partie3\partie3_4_1_risk_analysis.tex
+INPUT .\partie3\partie3_4_2_risk_evaluation.tex
+INPUT .\partie3\partie3_4_2_risk_evaluation.tex
+INPUT .\partie3\partie3_4_2_risk_evaluation.tex
+INPUT .\partie3\partie3_4_2_risk_evaluation.tex
+INPUT partie3\partie3_4_2_risk_evaluation.tex
+INPUT .\partie3\partie3_4_3_risk_control.tex
+INPUT .\partie3\partie3_4_3_risk_control.tex
+INPUT .\partie3\partie3_4_3_risk_control.tex
+INPUT .\partie3\partie3_4_3_risk_control.tex
+INPUT partie3\partie3_4_3_risk_control.tex
+INPUT .\partie3\partie3_4_4_overall_residual_risk_evaluation.tex
+INPUT .\partie3\partie3_4_4_overall_residual_risk_evaluation.tex
+INPUT .\partie3\partie3_4_4_overall_residual_risk_evaluation.tex
+INPUT .\partie3\partie3_4_4_overall_residual_risk_evaluation.tex
+INPUT partie3\partie3_4_4_overall_residual_risk_evaluation.tex
+INPUT .\partie3\partie3_5_annexes.tex
+INPUT .\partie3\partie3_5_annexes.tex
+INPUT .\partie3\partie3_5_annexes.tex
+INPUT .\partie3\partie3_5_annexes.tex
+INPUT partie3\partie3_5_annexes.tex
+INPUT .\partie3\partie3_6_bibliographical_references.tex
+INPUT .\partie3\partie3_6_bibliographical_references.tex
+INPUT .\partie3\partie3_6_bibliographical_references.tex
+INPUT .\partie3\partie3_6_bibliographical_references.tex
+INPUT partie3\partie3_6_bibliographical_references.tex
+INPUT main_part3.aux
+INPUT .\main_part3.out
+INPUT .\main_part3.out
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\NewTXMI.pfb
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\NewTXMI.pfb
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\type1\public\tex-gyre\qtmr.pfb
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\type1\public\tex-gyre\qtmr.pfb
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\txsys.pfb
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\txsys.pfb
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmb.pfb
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmb.pfb
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmr.pfb
+INPUT C:\Users\SKALBEL SANTE\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmr.pfb

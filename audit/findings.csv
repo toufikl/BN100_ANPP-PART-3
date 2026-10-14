@@ -1,0 +1,310 @@
+﻿severity,code,message,file,line,evidence
+MEDIUM,EMPTY_FILE,File contains no readable text.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\3.1_table_of_contents.tex,,
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_1_designation.tex,4,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_1_designation.tex,13,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_1_designation.tex,27,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_1_designation.tex,28,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_1_designation.tex,35,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_1_designation.tex,45,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,4,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,17,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,31,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,41,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,80,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,104,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,124,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,149,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,232,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,259,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,278,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,297,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,324,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,362,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,409,BN-100 LUX
+INFO,SPEC_OCCURRENCE,Potential Frequency value. Compare against source documents.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,155,frequency
+INFO,SPEC_OCCURRENCE,Potential Power value. Compare against source documents.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,45,rated power
+INFO,SPEC_OCCURRENCE,Potential Power value. Compare against source documents.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,45,800 W
+INFO,SPEC_OCCURRENCE,Potential Power value. Compare against source documents.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,59,rated power
+INFO,SPEC_OCCURRENCE,Potential Power value. Compare against source documents.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,59,800 W
+INFO,SPEC_OCCURRENCE,Potential Power value. Compare against source documents.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,157,maximum input power
+INFO,SPEC_OCCURRENCE,Potential Power value. Compare against source documents.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,158,1000 VA
+INFO,SPEC_OCCURRENCE,Potential Power value. Compare against source documents.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,159,rated power
+INFO,SPEC_OCCURRENCE,Potential Power value. Compare against source documents.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,160,800 W
+INFO,SPEC_OCCURRENCE,Potential Power value. Compare against source documents.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,417,800 W
+INFO,SPEC_OCCURRENCE,Potential Mechanical load value. Compare against source documents.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,238,100 N
+INFO,SPEC_OCCURRENCE,Potential Mechanical load value. Compare against source documents.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,241,20 N
+INFO,SPEC_OCCURRENCE,Potential Mechanical load value. Compare against source documents.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,242,2 kg
+INFO,SPEC_OCCURRENCE,Potential Service life value. Compare against source documents.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,259,8 years
+INFO,SPEC_OCCURRENCE,Potential Service life value. Compare against source documents.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,262,"25,000 hours"
+INFO,STANDARD_OCCURRENCE,Standard mentioned: IEC 60601-1.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,382,IEC 60601-1
+INFO,STANDARD_OCCURRENCE,Standard mentioned: IEC 60601-1.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,383,IEC 60601-1
+INFO,STANDARD_OCCURRENCE,Standard mentioned: IEC 60601-1-8.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,383,IEC 60601-1-8
+INFO,STANDARD_OCCURRENCE,Standard mentioned: IEC 60601-2-21.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,384,IEC 60601-2-21
+INFO,STANDARD_OCCURRENCE,Standard mentioned: IEC 60601-2-21.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,393,IEC 60601-2-21
+INFO,STANDARD_OCCURRENCE,Standard mentioned: CISPR 11.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex,385,CISPR 11
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_general_information.tex,4,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_general_information.tex,13,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_general_information.tex,33,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_general_information.tex,61,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_general_information.tex,116,BN-100 LUX
+INFO,SPEC_OCCURRENCE,Potential Service life value. Compare against source documents.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_general_information.tex,137,8 years
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_1_manufacturers.tex,3,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_1_manufacturers.tex,12,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_1_manufacturers.tex,83,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_1_manufacturers.tex,91,BN-100 LUX
+INFO,STANDARD_OCCURRENCE,Standard mentioned: ISO 13485.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_1_manufacturers.tex,49,ISO 13485
+INFO,STANDARD_OCCURRENCE,Standard mentioned: ISO 13485.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_1_manufacturers.tex,56,ISO 13485
+INFO,STANDARD_OCCURRENCE,Standard mentioned: ISO 13485.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_1_manufacturers.tex,75,ISO 13485
+INFO,STANDARD_OCCURRENCE,Standard mentioned: ISO 13485.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_1_manufacturers.tex,86,ISO 13485
+INFO,STANDARD_OCCURRENCE,Standard mentioned: ISO 13485.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_1_manufacturers.tex,105,ISO 13485
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_2_manufacturing_process.tex,4,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_2_manufacturing_process.tex,12,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_2_manufacturing_process.tex,73,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_2_manufacturing_process.tex,114,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_2_manufacturing_process.tex,152,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_2_manufacturing_process.tex,241,BN-100 LUX
+INFO,STANDARD_OCCURRENCE,Standard mentioned: ISO 13485.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_2_manufacturing_process.tex,246,ISO 13485
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_3_raw_materials_components_control.tex,3,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_3_raw_materials_components_control.tex,11,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_3_raw_materials_components_control.tex,71,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_3_raw_materials_components_control.tex,316,BN-100 LUX
+INFO,STANDARD_OCCURRENCE,Standard mentioned: IEC 60601-1.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_3_raw_materials_components_control.tex,211,IEC 60601-1
+INFO,STANDARD_OCCURRENCE,Standard mentioned: IEC 60601-1.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_3_raw_materials_components_control.tex,220,IEC 60601-1
+INFO,STANDARD_OCCURRENCE,Standard mentioned: IEC 60601-1.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_3_raw_materials_components_control.tex,229,IEC 60601-1
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_4_critical_steps_intermediate_products.tex,3,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_4_critical_steps_intermediate_products.tex,11,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_4_critical_steps_intermediate_products.tex,54,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_4_critical_steps_intermediate_products.tex,139,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_4_critical_steps_intermediate_products.tex,217,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_5_process_validation.tex,3,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_5_process_validation.tex,11,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_5_process_validation.tex,117,BN-100 LUX
+INFO,STANDARD_OCCURRENCE,Standard mentioned: ISO 14971.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_5_process_validation.tex,104,ISO 14971
+INFO,STANDARD_OCCURRENCE,Standard mentioned: ISO/TR 24971.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_5_process_validation.tex,104,ISO/TR 24971
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_6_manufacturing_process_development.tex,3,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_6_manufacturing_process_development.tex,11,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_6_manufacturing_process_development.tex,29,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_6_manufacturing_process_development.tex,56,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_6_manufacturing_process_development.tex,101,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_6_manufacturing_process_development.tex,120,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_6_manufacturing_process_development.tex,143,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_6_manufacturing_process_development.tex,149,BN-100 LUX
+INFO,STANDARD_OCCURRENCE,Standard mentioned: ISO 14971.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_6_manufacturing_process_development.tex,131,ISO 14971
+INFO,STANDARD_OCCURRENCE,Standard mentioned: ISO/TR 24971.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_6_manufacturing_process_development.tex,131,ISO/TR 24971
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_3_1_specifications.tex,3,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_3_1_specifications.tex,11,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_3_1_specifications.tex,50,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_3_1_specifications.tex,237,BN-100 LUX
+INFO,STANDARD_OCCURRENCE,Standard mentioned: IEC 60601-1.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_3_1_specifications.tex,154,IEC 60601-1
+INFO,STANDARD_OCCURRENCE,Standard mentioned: IEC 60601-1.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_3_1_specifications.tex,161,IEC 60601-1
+INFO,STANDARD_OCCURRENCE,Standard mentioned: IEC 60601-1.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_3_1_specifications.tex,168,IEC 60601-1
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_3_5_justification_specifications.tex,3,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_3_5_justification_specifications.tex,12,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_3_5_justification_specifications.tex,24,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_3_5_justification_specifications.tex,58,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_3_5_justification_specifications.tex,89,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_3_5_justification_specifications.tex,150,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_3_5_justification_specifications.tex,170,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_body_of_data.tex,4,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_body_of_data.tex,18,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_body_of_data.tex,21,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_body_of_data.tex,32,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_body_of_data.tex,63,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_body_of_data.tex,74,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_body_of_data.tex,108,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_body_of_data.tex,111,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_body_of_data.tex,115,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_body_of_data.tex,122,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_body_of_data.tex,140,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_raw_materials_components.tex,4,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_raw_materials_components.tex,17,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_raw_materials_components.tex,87,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_raw_materials_components.tex,133,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_raw_materials_components.tex,181,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_raw_materials_components.tex,200,BN-100 LUX
+INFO,SPEC_OCCURRENCE,Potential Power value. Compare against source documents.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_raw_materials_components.tex,82,rated power
+INFO,SPEC_OCCURRENCE,Potential Power value. Compare against source documents.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_raw_materials_components.tex,82,800 W
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_1_finished_product_description.tex,3,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_1_finished_product_description.tex,12,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_1_finished_product_description.tex,33,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_1_finished_product_description.tex,104,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_1_finished_product_description.tex,256,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_1_finished_product_description.tex,288,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_1_finished_product_description.tex,306,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_1_finished_product_description.tex,320,BN-100 LUX
+INFO,SPEC_OCCURRENCE,Potential Power value. Compare against source documents.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_1_finished_product_description.tex,149,rated power
+INFO,SPEC_OCCURRENCE,Potential Power value. Compare against source documents.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_1_finished_product_description.tex,149,800 W
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_1_manufacturers.tex,3,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_1_manufacturers.tex,11,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_1_manufacturers.tex,75,BN-100 LUX
+INFO,STANDARD_OCCURRENCE,Standard mentioned: ISO 13485.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_1_manufacturers.tex,48,ISO 13485
+INFO,STANDARD_OCCURRENCE,Standard mentioned: ISO 13485.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_1_manufacturers.tex,71,ISO 13485
+INFO,STANDARD_OCCURRENCE,Standard mentioned: ISO 13485.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_1_manufacturers.tex,79,ISO 13485
+INFO,STANDARD_OCCURRENCE,Standard mentioned: ISO 13485.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_1_manufacturers.tex,95,ISO 13485
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_2_composition.tex,3,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_2_composition.tex,11,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_2_composition.tex,188,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_2_composition.tex,223,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_3_manufacturing_process_controls.tex,4,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_3_manufacturing_process_controls.tex,12,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_3_manufacturing_process_controls.tex,129,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_3_manufacturing_process_controls.tex,207,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_3_manufacturing_process_controls.tex,261,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_3_manufacturing_process_controls.tex,291,BN-100 LUX
+INFO,STANDARD_OCCURRENCE,Standard mentioned: ISO 13485.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_3_manufacturing_process_controls.tex,292,ISO 13485
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_4_critical_steps_intermediate_controls.tex,3,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_4_critical_steps_intermediate_controls.tex,11,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_4_critical_steps_intermediate_controls.tex,90,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_4_critical_steps_intermediate_controls.tex,159,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_4_critical_steps_intermediate_controls.tex,211,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_4_critical_steps_intermediate_controls.tex,260,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_5_process_validation.tex,3,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_5_process_validation.tex,11,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_5_process_validation.tex,21,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_5_process_validation.tex,163,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_5_process_validation.tex,166,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_5_process_validation.tex,182,BN-100 LUX
+MEDIUM,MARKDOWN_FENCE,Potential source artefact detected.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_4_1_specifications.tex,1,```
+MEDIUM,MARKDOWN_FENCE,Potential source artefact detected.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_4_1_specifications.tex,157,```
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_4_1_specifications.tex,12,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_4_1_specifications.tex,140,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_4_1_specifications.tex,154,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100A. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_4_1_specifications.tex,151,BN-100A
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_4_1_specifications.tex,151,BN-100
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_4_1_specifications.tex,154,BN-100
+INFO,SPEC_OCCURRENCE,Potential Frequency value. Compare against source documents.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_4_1_specifications.tex,29,frequency
+INFO,SPEC_OCCURRENCE,Potential Power value. Compare against source documents.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_4_1_specifications.tex,31,Rated power
+INFO,SPEC_OCCURRENCE,Potential Power value. Compare against source documents.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_4_1_specifications.tex,31,1000 VA
+INFO,SPEC_OCCURRENCE,Potential Power value. Compare against source documents.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_4_1_specifications.tex,33,800 W
+INFO,SPEC_OCCURRENCE,Potential Mechanical load value. Compare against source documents.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_4_1_specifications.tex,131,100 N
+INFO,SPEC_OCCURRENCE,Potential Mechanical load value. Compare against source documents.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_4_1_specifications.tex,133,20 N
+INFO,SPEC_OCCURRENCE,Potential Mechanical load value. Compare against source documents.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_4_1_specifications.tex,133,2 kg
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_4_5_justification_specifications.tex,13,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_4_5_justification_specifications.tex,37,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_4_5_justification_specifications.tex,103,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_4_5_justification_specifications.tex,120,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100A. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_4_5_justification_specifications.tex,99,BN-100A
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100A. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_4_5_justification_specifications.tex,117,BN-100A
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_4_5_justification_specifications.tex,99,BN-100
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_4_5_justification_specifications.tex,117,BN-100
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_4_5_justification_specifications.tex,120,BN-100
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_4_finished_product_control.tex,11,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_4_finished_product_control.tex,50,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_4_finished_product_control.tex,55,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_4_finished_product_control.tex,150,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100A. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_4_finished_product_control.tex,147,BN-100A
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_4_finished_product_control.tex,147,BN-100
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_4_finished_product_control.tex,150,BN-100
+MEDIUM,MARKDOWN_FENCE,Potential source artefact detected.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_5_standards.tex,1,```
+MEDIUM,MARKDOWN_FENCE,Potential source artefact detected.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_5_standards.tex,115,```
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_5_standards.tex,12,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_5_standards.tex,41,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_5_standards.tex,53,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_5_standards.tex,72,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_5_standards.tex,112,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100A. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_5_standards.tex,109,BN-100A
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_5_standards.tex,109,BN-100
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_5_standards.tex,112,BN-100
+INFO,STANDARD_OCCURRENCE,Standard mentioned: IEC 60601-1.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_5_standards.tex,23,IEC 60601-1
+INFO,STANDARD_OCCURRENCE,Standard mentioned: IEC 60601-1.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_5_standards.tex,25,IEC 60601-1
+INFO,STANDARD_OCCURRENCE,Standard mentioned: IEC 60601-1.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_5_standards.tex,29,IEC 60601-1
+INFO,STANDARD_OCCURRENCE,Standard mentioned: IEC 60601-1.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_5_standards.tex,35,IEC 60601-1
+INFO,STANDARD_OCCURRENCE,Standard mentioned: IEC 60601-1.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_5_standards.tex,37,IEC 60601-1
+INFO,STANDARD_OCCURRENCE,Standard mentioned: IEC 60601-1.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_5_standards.tex,47,IEC 60601-1
+INFO,STANDARD_OCCURRENCE,Standard mentioned: IEC 60601-1.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_5_standards.tex,49,IEC 60601-1
+INFO,STANDARD_OCCURRENCE,Standard mentioned: IEC 60601-1-2.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_5_standards.tex,35,IEC 60601-1-2
+INFO,STANDARD_OCCURRENCE,Standard mentioned: IEC 60601-1-2.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_5_standards.tex,37,IEC 60601-1-2
+INFO,STANDARD_OCCURRENCE,Standard mentioned: IEC 60601-1-8.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_5_standards.tex,47,IEC 60601-1-8
+INFO,STANDARD_OCCURRENCE,Standard mentioned: IEC 60601-1-8.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_5_standards.tex,49,IEC 60601-1-8
+INFO,STANDARD_OCCURRENCE,Standard mentioned: ISO 14971.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_5_standards.tex,56,ISO 14971
+INFO,STANDARD_OCCURRENCE,Standard mentioned: ISO 14971.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_5_standards.tex,58,ISO 14971
+MEDIUM,MARKDOWN_FENCE,Potential source artefact detected.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_6_stability.tex,1,```
+MEDIUM,MARKDOWN_FENCE,Potential source artefact detected.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_6_stability.tex,156,```
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_6_stability.tex,12,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_6_stability.tex,17,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_6_stability.tex,86,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_6_stability.tex,112,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_6_stability.tex,135,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_6_stability.tex,150,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100A. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_6_stability.tex,152,BN-100A
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_6_stability.tex,150,BN-100
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_6_stability.tex,152,BN-100
+INFO,SPEC_OCCURRENCE,Potential Service life value. Compare against source documents.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_6_stability.tex,63,8 years
+INFO,SPEC_OCCURRENCE,Potential Service life value. Compare against source documents.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_6_stability.tex,75,"25,000 hours"
+MEDIUM,MARKDOWN_FENCE,Potential source artefact detected.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_1_risk_analysis.tex,1,```
+MEDIUM,MARKDOWN_FENCE,Potential source artefact detected.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_1_risk_analysis.tex,259,```
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_1_risk_analysis.tex,12,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_1_risk_analysis.tex,43,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_1_risk_analysis.tex,112,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_1_risk_analysis.tex,256,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100A. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_1_risk_analysis.tex,29,BN-100A
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100A. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_1_risk_analysis.tex,40,BN-100A
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100A. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_1_risk_analysis.tex,253,BN-100A
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_1_risk_analysis.tex,29,BN-100
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_1_risk_analysis.tex,40,BN-100
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_1_risk_analysis.tex,253,BN-100
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_1_risk_analysis.tex,256,BN-100
+MEDIUM,MARKDOWN_FENCE,Potential source artefact detected.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_2_risk_evaluation.tex,1,```
+MEDIUM,MARKDOWN_FENCE,Potential source artefact detected.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_2_risk_evaluation.tex,194,```
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_2_risk_evaluation.tex,12,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_2_risk_evaluation.tex,38,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_2_risk_evaluation.tex,66,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_2_risk_evaluation.tex,165,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_2_risk_evaluation.tex,191,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100A. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_2_risk_evaluation.tex,28,BN-100A
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100A. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_2_risk_evaluation.tex,188,BN-100A
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_2_risk_evaluation.tex,28,BN-100
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_2_risk_evaluation.tex,188,BN-100
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_2_risk_evaluation.tex,191,BN-100
+MEDIUM,MARKDOWN_FENCE,Potential source artefact detected.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_3_risk_control.tex,1,```
+MEDIUM,MARKDOWN_FENCE,Potential source artefact detected.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_3_risk_control.tex,265,```
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_3_risk_control.tex,12,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_3_risk_control.tex,262,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100A. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_3_risk_control.tex,259,BN-100A
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_3_risk_control.tex,259,BN-100
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_3_risk_control.tex,262,BN-100
+MEDIUM,MARKDOWN_FENCE,Potential source artefact detected.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_4_overall_residual_risk_evaluation.tex,1,```
+MEDIUM,MARKDOWN_FENCE,Potential source artefact detected.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_4_overall_residual_risk_evaluation.tex,215,```
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_4_overall_residual_risk_evaluation.tex,12,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_4_overall_residual_risk_evaluation.tex,39,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_4_overall_residual_risk_evaluation.tex,79,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_4_overall_residual_risk_evaluation.tex,179,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_4_overall_residual_risk_evaluation.tex,212,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100A. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_4_overall_residual_risk_evaluation.tex,29,BN-100A
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100A. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_4_overall_residual_risk_evaluation.tex,209,BN-100A
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_4_overall_residual_risk_evaluation.tex,29,BN-100
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_4_overall_residual_risk_evaluation.tex,209,BN-100
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_4_4_overall_residual_risk_evaluation.tex,212,BN-100
+MEDIUM,MARKDOWN_FENCE,Potential source artefact detected.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_5_annexes.tex,1,```
+MEDIUM,MARKDOWN_FENCE,Potential source artefact detected.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_5_annexes.tex,169,```
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_5_annexes.tex,14,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_5_annexes.tex,76,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_5_annexes.tex,135,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_5_annexes.tex,165,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100A. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_5_annexes.tex,34,BN-100A
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_5_annexes.tex,32,BN-100
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_5_annexes.tex,34,BN-100
+MEDIUM,MARKDOWN_FENCE,Potential source artefact detected.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_6_bibliographical_references.tex,1,```
+MEDIUM,MARKDOWN_FENCE,Potential source artefact detected.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_6_bibliographical_references.tex,106,```
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_6_bibliographical_references.tex,14,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100 LUX. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_6_bibliographical_references.tex,105,BN-100 LUX
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100A. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_6_bibliographical_references.tex,27,BN-100A
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_6_bibliographical_references.tex,24,BN-100
+INFO,MODEL_MENTION,Model identifier mentioned: BN-100. Context requires review.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_6_bibliographical_references.tex,27,BN-100
+INFO,STANDARD_OCCURRENCE,Standard mentioned: IEC 60601-1.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_6_bibliographical_references.tex,43,IEC 60601-1
+INFO,STANDARD_OCCURRENCE,Standard mentioned: IEC 60601-1.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_6_bibliographical_references.tex,46,IEC 60601-1
+INFO,STANDARD_OCCURRENCE,Standard mentioned: IEC 60601-1.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_6_bibliographical_references.tex,51,IEC 60601-1
+INFO,STANDARD_OCCURRENCE,Standard mentioned: IEC 60601-1-2.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_6_bibliographical_references.tex,46,IEC 60601-1-2
+INFO,STANDARD_OCCURRENCE,Standard mentioned: IEC 60601-1-8.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_6_bibliographical_references.tex,51,IEC 60601-1-8
+INFO,STANDARD_OCCURRENCE,Standard mentioned: ISO 14971.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_6_bibliographical_references.tex,55,ISO 14971
+MEDIUM,EMPTY_FILE,File contains no readable text.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_resumes.tex,,
+MEDIUM,CROSS_FILE_DUPLICATE,Identical normalized paragraph appears in multiple files.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_2_general_properties.tex | D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_1_general_information.tex,,"\begin{itemize}     \item \textbf{Ambient temperature:}     $+18\,^\circ\mathrm{C}$ to $+30\,^\circ\mathrm{C}$;     \item \textbf{Relative humidity:} 30\% to 75\%;     \item \textbf{Atmospheric pressure:} 700 to 1060 hPa;     \item \textbf{Air veloci"
+MEDIUM,CROSS_FILE_DUPLICATE,Identical normalized paragraph appears in multiple files.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_1_manufacturers.tex | D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_1_manufacturers.tex,,"Accordingly, no additional manufacturing site, subcontractor or manufacturer is identified in this section in the absence of supporting documentation."
+MEDIUM,CROSS_FILE_DUPLICATE,Identical normalized paragraph appears in multiple files.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_2_manufacturing_process.tex | D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_3_manufacturing_process_controls.tex | D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_4_critical_steps_intermediate_controls.tex,,\begin{itemize}     \item dual-fuse input socket;     \item power supply cord;     \item auxiliary socket outlets;     \item relay;     \item rocker switch;     \item fuse;     \item rechargeable battery;     \item optocoupler;     \item printed circ
+MEDIUM,CROSS_FILE_DUPLICATE,Identical normalized paragraph appears in multiple files.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_5_process_validation.tex | D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_3_5_justification_specifications.tex,,\begin{itemize}     \item \textbf{Product:} BN-100 LUX Infant Radiant Warmer;     \item \textbf{Document:} Risk Management Report;     \item \textbf{Document No.:} YF-7.3-24-02 (w);     \item \textbf{Version:} A/0;     \item \textbf{Date:} 26 June 20
+LOW,NEAR_DUPLICATE_PARAGRAPH,Possible near-duplicate; similarity=0.987.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_2_manufacturing_process.tex | D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_4_critical_steps_intermediate_products.tex,,A: \begin{itemize}     \item dual-fuse input socket;     \item power supply cord;     \item auxiliary s || B: \begin{itemize}     \item dual fuse input socket;     \item power supply cord;     \item auxiliary s
+LOW,NEAR_DUPLICATE_PARAGRAPH,Possible near-duplicate; similarity=0.953.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_2_manufacturing_process.tex | D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_2_composition.tex,,A: \begin{itemize}     \item dual-fuse input socket;     \item power supply cord;     \item auxiliary s || B: \begin{itemize}     \item dual-fuse input socket;     \item power supply cord;     \item auxiliary s
+LOW,NEAR_DUPLICATE_PARAGRAPH,Possible near-duplicate; similarity=0.987.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_4_critical_steps_intermediate_products.tex | D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_3_manufacturing_process_controls.tex,,A: \begin{itemize}     \item dual fuse input socket;     \item power supply cord;     \item auxiliary s || B: \begin{itemize}     \item dual-fuse input socket;     \item power supply cord;     \item auxiliary s
+LOW,NEAR_DUPLICATE_PARAGRAPH,Possible near-duplicate; similarity=0.987.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_2_2_4_critical_steps_intermediate_products.tex | D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_4_critical_steps_intermediate_controls.tex,,A: \begin{itemize}     \item dual fuse input socket;     \item power supply cord;     \item auxiliary s || B: \begin{itemize}     \item dual-fuse input socket;     \item power supply cord;     \item auxiliary s
+LOW,NEAR_DUPLICATE_PARAGRAPH,Possible near-duplicate; similarity=0.953.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_2_composition.tex | D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_3_manufacturing_process_controls.tex,,A: \begin{itemize}     \item dual-fuse input socket;     \item power supply cord;     \item auxiliary s || B: \begin{itemize}     \item dual-fuse input socket;     \item power supply cord;     \item auxiliary s
+LOW,NEAR_DUPLICATE_PARAGRAPH,Possible near-duplicate; similarity=0.953.,D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_2_composition.tex | D:\SKALBEL SANTE\Desktop\TOUFIK\BN100_ANPP\structure\partie3\partie3_3_2_4_critical_steps_intermediate_controls.tex,,A: \begin{itemize}     \item dual-fuse input socket;     \item power supply cord;     \item auxiliary s || B: \begin{itemize}     \item dual-fuse input socket;     \item power supply cord;     \item auxiliary s

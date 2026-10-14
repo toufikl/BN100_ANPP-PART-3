@@ -1,0 +1,182 @@
+﻿
+\documentclass[12pt,a4paper]{report}
+
+% ------------------------------------------------------------
+% PACKAGES
+% ------------------------------------------------------------
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english]{babel}
+
+\usepackage[
+    a4paper,
+    top=2.5cm,
+    bottom=2.5cm,
+    left=2.5cm,
+    right=2.5cm
+]{geometry}
+
+\usepackage{newtxtext}
+\usepackage{newtxmath}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+% ------------------------------------------------------------
+% PDF METADATA
+% ------------------------------------------------------------
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    urlcolor=blue,
+    citecolor=black,
+    pdftitle={BN-100 LUX - PART III},
+    pdfauthor={SKALBEL SANTE}
+}
+
+% ------------------------------------------------------------
+% PAGE STYLE
+% ------------------------------------------------------------
+
+\setlength{\headheight}{15pt}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{BN-100 LUX}
+\fancyhead[R]{PART III}
+\fancyfoot[C]{\thepage}
+
+% ------------------------------------------------------------
+% DOCUMENT
+% ------------------------------------------------------------
+
+\begin{document}
+
+% ------------------------------------------------------------
+% TITLE PAGE
+% ------------------------------------------------------------
+
+\begin{titlepage}
+    \centering
+
+    \vspace*{3cm}
+
+    {\Huge\bfseries BN-100 LUX\par}
+
+    \vspace{1cm}
+
+    {\LARGE\bfseries PART III\par}
+
+    \vspace{0.5cm}
+
+    {\Large Chemical, Physical, Mechanical and Biological Information\par}
+
+    \vfill
+
+    {\large Medical Device Homologation Dossier\par}
+
+    \vspace{0.5cm}
+
+    {\large SKALBEL SANTE\par}
+
+    \vspace{2cm}
+\end{titlepage}
+
+% ------------------------------------------------------------
+% TABLE OF CONTENTS
+% Display through subsection level
+% ------------------------------------------------------------
+
+\setcounter{tocdepth}{2}
+
+\tableofcontents
+\clearpage
+
+% ------------------------------------------------------------
+% 3.1 - PART III HEADING
+% ------------------------------------------------------------
+
+
+\input{partie3/partie3_1_table_of_contents}
+
+\setcounter{chapter}{3}
+\setcounter{section}{0}
+
+% ------------------------------------------------------------
+% 3.1 - BODY OF DATA
+% ------------------------------------------------------------
+
+\input{partie3/partie3_2_body_of_data}
+
+
+\input{partie3/partie3_2_1_general_information}
+\input{partie3/partie3_2_1_1_designation}
+\input{partie3/partie3_2_1_2_general_properties}
+
+\input{partie3/partie3_2_2_manufacturing}
+\input{partie3/partie3_2_2_1_manufacturers}
+\input{partie3/partie3_2_2_2_manufacturing_process}
+\input{partie3/partie3_2_2_3_raw_materials_components_control}
+\input{partie3/partie3_2_2_4_critical_steps_intermediate_products}
+\input{partie3/partie3_2_2_5_process_validation}
+\input{partie3/partie3_2_2_6_manufacturing_process_development}
+
+\input{partie3/partie3_2_3_control_raw_material}
+\input{partie3/partie3_2_3_1_specifications}
+\input{partie3/partie3_2_3_5_justification_specifications}
+
+% ------------------------------------------------------------
+% 3.3 - FINISHED PRODUCT
+% ------------------------------------------------------------
+
+\input{partie3/partie3_3_finished_product}
+
+\input{partie3/partie3_3_1_finished_product_description}
+
+\input{partie3/partie3_3_2_manufacturing}
+\input{partie3/partie3_3_2_1_manufacturers}
+\input{partie3/partie3_3_2_2_composition}
+\input{partie3/partie3_3_2_3_manufacturing_process_controls}
+\input{partie3/partie3_3_2_4_critical_steps_intermediate_controls}
+\input{partie3/partie3_3_2_5_process_validation}
+
+\input{partie3/partie3_3_4_finished_product_control}
+\input{partie3/partie3_3_4_1_specifications}
+\input{partie3/partie3_3_4_5_justification_specifications}
+
+\input{partie3/partie3_3_5_standards}
+\input{partie3/partie3_3_6_stability}
+
+% ------------------------------------------------------------
+% 3.4 - RISK ANALYSIS REPORT
+% ------------------------------------------------------------
+
+\section{Risk Analysis Report}
+
+\input{partie3/partie3_4_1_risk_analysis}
+\input{partie3/partie3_4_2_risk_evaluation}
+\input{partie3/partie3_4_3_risk_control}
+\input{partie3/partie3_4_4_overall_residual_risk_evaluation}
+
+% ------------------------------------------------------------
+% 3.5 - ANNEXES
+% ------------------------------------------------------------
+
+\input{partie3/partie3_5_annexes}
+
+% ------------------------------------------------------------
+% 3.6 - BIBLIOGRAPHICAL REFERENCES
+% ------------------------------------------------------------
+
+\input{partie3/partie3_6_bibliographical_references}
+
+\end{document}
+
