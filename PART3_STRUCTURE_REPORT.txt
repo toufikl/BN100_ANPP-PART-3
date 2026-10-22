@@ -124,7 +124,7 @@ structure\partie3_BACKUP_FINAL\partie3_5_annexes.tex
 structure\partie3_BACKUP_FINAL\partie3_6_bibliographical_references.tex
 structure\partie3_BACKUP_FINAL\partie3_resumes.tex
 
-========== LATEX STRUCTURE ==========
+==========  STRUCTURE ==========
 
 
 --- FILE: main_part3.tex ---

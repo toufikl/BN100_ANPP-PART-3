@@ -70,12 +70,9 @@ risk-management documentation.
 \setlength{\tabcolsep}{3pt}
 \renewcommand{\arraystretch}{1.15}
 
-\begin{longtable}{|
->{\raggedright\arraybackslash}p{0.05\textwidth}|
->{\raggedright\arraybackslash}p{0.23\textwidth}|
->{\raggedright\arraybackslash}p{0.21\textwidth}|
->{\raggedright\arraybackslash}p{0.35\textwidth}|
-}
+% Simplified column specification to avoid the reported
+% illegal preamble-token error.
+\begin{longtable}{|p{0.05\textwidth}|p{0.23\textwidth}|p{0.21\textwidth}|p{0.5\textwidth}|}
 
 \hline
 \textbf{No.} &
@@ -149,14 +146,14 @@ Certificate No. DGSJH2023041902
 \hline
 
 8 &
-Optical coupler &
+Optocoupler &
 MOC3083 &
 DIN EN 60747-5; VDE No. 102497
 \\
 \hline
 
 9 &
-Printed circuit board &
+PCB base material &
 NPG-180BH &
 GB/T 4725-1992; GB/T 6040-2019;
 GB/T 19466.1-2004; GB/T 19466.2-2004;
@@ -190,7 +187,7 @@ indicates testing with equipment
 \hline
 
 13 &
-Thyristors &
+Thyristor (TRIAC) &
 BTA12-600B &
 IEC 60601-1; manufacturer documentation
 indicates testing with equipment
@@ -214,7 +211,7 @@ TUV No. TA50328876
 \hline
 
 16 &
-Filter &
+EMI filter &
 RV410-6 &
 EN 60939-1:2010; EN 60939-2:2005;
 UDEM: M.2022.206.C74237

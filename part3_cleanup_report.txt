@@ -45,4 +45,4 @@ Manual enumerate environment: NOT PRESENT
 Annexes section heading: PRESENT — RETAINED
 
 5. Scope and limitations
-This audit checks selected LaTeX structure and file references. It does not validate medical-device specifications, regulatory classification, technical claims, or ANPP compliance.
+This audit checks selected  structure and file references. It does not validate medical-device specifications, regulatory classification, technical claims, or ANPP compliance.

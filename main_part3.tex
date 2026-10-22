@@ -28,6 +28,8 @@
 \usepackage{enumitem}
 \usepackage{fancyhdr}
 \usepackage{hyperref}
+\usepackage{pdfpages}
+\usepackage{float}
 
 % ------------------------------------------------------------
 % PDF METADATA
@@ -104,7 +106,6 @@
 % 3.1 - PART III HEADING
 % ------------------------------------------------------------
 
-
 \input{partie3/partie3_1_table_of_contents}
 
 \setcounter{chapter}{3}
@@ -115,7 +116,6 @@
 % ------------------------------------------------------------
 
 \input{partie3/partie3_2_body_of_data}
-
 
 \input{partie3/partie3_2_1_general_information}
 \input{partie3/partie3_2_1_1_designation}
@@ -178,5 +178,19 @@
 
 \input{partie3/partie3_6_bibliographical_references}
 
-\end{document}
+% ------------------------------------------------------------
+% ANNEX - MANUFACTURER'S COMPONENT CERTIFICATES
+% ------------------------------------------------------------
 
+\clearpage
+\phantomsection
+\addcontentsline{toc}{section}{Manufacturer's Component Certificates}
+
+\includepdf[
+    pages=-,
+    pagecommand={}
+]{BSI.pdf}
+
+\clearpage
+
+\end{document}

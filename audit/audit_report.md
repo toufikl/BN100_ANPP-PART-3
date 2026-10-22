@@ -29,7 +29,7 @@ Total findings: 309
 - A model mention is not automatically an error.
 - A repeated paragraph is not automatically unnecessary.
 - Technical conflicts require checking authoritative source documents.
-- Original LaTeX files are not modified.
+- Original  files are not modified.
 
 ## Findings
 
